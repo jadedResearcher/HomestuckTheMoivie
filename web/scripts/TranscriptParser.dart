@@ -12,6 +12,8 @@ abstract class TranscriptParser {
     static Character jane = new Character("images/jane.jpg","#00d5fd", <String>["jane","gt","crocker"]);
     static Character roxy = new Character("images/roxy.png","#ff6ff2", <String>["roxy","tg","lalonde"]);
     static Character jake = new Character("images/jake.png","#1f9400", <String>["jake","gt","english"]);
+    static Character myserty = new Character("images/myserty.png","#c4c4c4", <String>[]);
+
 
     static List<Character> characters = <Character>[dave, dirk, jane, roxy, jake];
 
@@ -42,9 +44,6 @@ abstract class TranscriptParser {
         for(String line in parts) {
             parseLine(line);
         }
-
-        parseLine("Jane: Hello World Guvner.");
-
         //output.text = transcript;
     }
 
@@ -64,7 +63,7 @@ abstract class TranscriptParser {
             print("is ${c.tags} $text? ");
             if(c.tags.contains(text.toLowerCase())) return c;
         }
-        return null;
+        return myserty;
     }
 }
 
