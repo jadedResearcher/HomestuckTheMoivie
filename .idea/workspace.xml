@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9b83005c-cc18-4176-b79c-070d968ec7f2" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/transcripts/10.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/transcripts/6.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/transcripts/7.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/transcripts/8.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/transcripts/9.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/transcripts/11.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/transcripts/12.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/transcripts/13.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/transcripts/14.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/scripts/TranscriptParser.dart" afterPath="$PROJECT_DIR$/web/scripts/TranscriptParser.dart" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/scripts/main.dart" afterPath="$PROJECT_DIR$/web/scripts/main.dart" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -33,6 +33,26 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="14.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/transcripts/14.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="51" column="11" lean-forward="false" selection-start-line="51" selection-start-column="11" selection-end-line="51" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="12.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/transcripts/12.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="98" column="42" lean-forward="false" selection-start-line="98" selection-start-column="42" selection-end-line="98" selection-end-column="42" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="10.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/transcripts/10.txt">
           <provider selected="true" editor-type-id="text-editor">
@@ -46,8 +66,8 @@
       <file leaf-file-name="TranscriptParser.dart" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/scripts/TranscriptParser.dart">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-38">
-              <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+            <state relative-caret-position="232">
+              <caret line="50" column="43" lean-forward="false" selection-start-line="50" selection-start-column="43" selection-end-line="50" selection-end-column="43" />
               <folding>
                 <element signature="e#0#24#0" expanded="true" />
               </folding>
@@ -70,6 +90,16 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="11.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/transcripts/11.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="87" column="53" lean-forward="false" selection-start-line="87" selection-start-column="53" selection-end-line="87" selection-end-column="53" />
               <folding />
             </state>
           </provider>
@@ -123,12 +153,16 @@
         <option value="$PROJECT_DIR$/web/scripts/Character.dart" />
         <option value="$PROJECT_DIR$/web/transcripts/tmp.txt" />
         <option value="$PROJECT_DIR$/web/transcripts/4.txt" />
-        <option value="$PROJECT_DIR$/web/scripts/TranscriptParser.dart" />
         <option value="$PROJECT_DIR$/web/transcripts/6.txt" />
         <option value="$PROJECT_DIR$/web/transcripts/7.txt" />
         <option value="$PROJECT_DIR$/web/transcripts/8.txt" />
         <option value="$PROJECT_DIR$/web/transcripts/9.txt" />
         <option value="$PROJECT_DIR$/web/transcripts/10.txt" />
+        <option value="$PROJECT_DIR$/web/transcripts/11.txt" />
+        <option value="$PROJECT_DIR$/web/transcripts/12.txt" />
+        <option value="$PROJECT_DIR$/web/transcripts/13.dart" />
+        <option value="$PROJECT_DIR$/web/transcripts/14.txt" />
+        <option value="$PROJECT_DIR$/web/scripts/TranscriptParser.dart" />
         <option value="$PROJECT_DIR$/web/scripts/main.dart" />
       </list>
     </option>
@@ -687,10 +721,42 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/web/transcripts/11.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="87" column="53" lean-forward="false" selection-start-line="87" selection-start-column="53" selection-end-line="87" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/transcripts/12.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="98" column="42" lean-forward="false" selection-start-line="98" selection-start-column="42" selection-end-line="98" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/transcripts/13.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="476" column="41" lean-forward="false" selection-start-line="476" selection-start-column="41" selection-end-line="476" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/transcripts/14.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="51" column="11" lean-forward="false" selection-start-line="51" selection-start-column="11" selection-end-line="51" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/web/scripts/TranscriptParser.dart">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-38">
-          <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+        <state relative-caret-position="232">
+          <caret line="50" column="43" lean-forward="false" selection-start-line="50" selection-start-column="43" selection-end-line="50" selection-end-column="43" />
           <folding>
             <element signature="e#0#24#0" expanded="true" />
           </folding>

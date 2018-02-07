@@ -6,9 +6,9 @@ void main() {
   //querySelector('#output').text = 'Your Dart app is running.';
   output = querySelector('#output');
   //TODO have it have the abililty to shuffle transcripts, too.
-  int maxNumber = 10;
+  int maxNumber = 14;
   int number = new Random().nextInt(maxNumber)+1;
-  //number = 10;
+  //number = 14;
   //http://readmspa.org/transcripts/
   TranscriptParser.init(); //static vars don't exist till they do
   output.text = ("Script: $number");
