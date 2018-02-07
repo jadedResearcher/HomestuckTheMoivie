@@ -1,7 +1,8 @@
 import "Character.dart";
 import 'dart:html';
 import "path_utils.dart";
-
+//http://www.mspaintadventures.com/?search=6_1
+//http://readmspa.org/transcripts/
 abstract class TranscriptParser {
 
     static Element output;
@@ -25,12 +26,27 @@ abstract class TranscriptParser {
          Character john = new Character("images/john.png","#0715CD", <String>["john","gt","egbert","popop","eb"]);
          Character roxy = new Character("images/roxy.png","#ff6ff2", <String>["roxy","tg","lalonde","mom"]);
          Character jake = new Character("images/jake.png","#1f9400", <String>["jake","gt","english","grandpa"]);
+         Character jade = new Character("images/jade.png","#4AC925", <String>["jade","gg","harley","grandma"]);
+
          Character jude = new Character("images/jude.png","#4b4b4b", <String>["jude","fedorafreak"]); //game theory
          Character dad = new Character("images/dad.png","#c4c4c4", <String>["dad","pipefan413"]);
          Character equius = new Character("images/equius.png","#c4c4c4", <String>["ct","equius"]);
          new Character("images/erisol.jpg","#4ac925", <String>["erisol","erisolsprite"]);
          new Character("images/fefeta.jpg","#b536da", <String>["fefeta","fefetasprite"]);
          new Character("images/arquius.jpg","#ff0000", <String>["arquius","arquiusprite"]);
+
+         new Character("images/aradia.jpg","#ff0000", <String>["aradia","aa"]);
+         new Character("images/tavros.jpg","#ff0000", <String>["tavros","at"]);
+         new Character("images/sollux.jpg","#ff0000", <String>["sollux","ta"]);
+         new Character("images/karkat.jpg","#ff0000", <String>["karkat","cg"]);
+         new Character("images/nepeta.jpg","#ff0000", <String>["nepeta","ac"]);
+         new Character("images/kanaya.jpg","#ff0000", <String>["kanaya","ga"]);
+         new Character("images/terezi.jpg","#ff0000", <String>["terezi","gc"]);
+         new Character("images/vriska.jpg","#ff0000", <String>["vriska","ag"]);
+         new Character("images/equius.jpg","#ff0000", <String>["equius","ct"]);
+         new Character("images/gamzee.jpg","#ff0000", <String>["gamzee","tc"]);
+         new Character("images/eridan.jpg","#ff0000", <String>["eridan","ca"]);
+         new Character("images/feferi.jpg","#ff0000", <String>["feferi","cc"]);
 
 
          myserty = new Character("images/myserty.png","#c4c4c4", <String>[]);
