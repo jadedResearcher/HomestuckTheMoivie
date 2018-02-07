@@ -1,5 +1,5 @@
 import 'dart:html';
-
+import 'TranscriptParser.dart';
 class Character {
 
     String textColor;
@@ -8,6 +8,7 @@ class Character {
     List<String> tags;
 
     Character(String this.avatarLocation, String this.textColor, List<String> this.tags) {
+        TranscriptParser.addCharacter(this);
     }
 
     void say(String words, Element div) {

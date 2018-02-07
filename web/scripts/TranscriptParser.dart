@@ -5,17 +5,37 @@ import "path_utils.dart";
 abstract class TranscriptParser {
 
     static Element output;
+    static List<Character> _characters = new List<Character>();
+
+    static void addCharacter(Character c) {
+        _characters.add(c);
+        print("adding character $c to $_characters");
+    }
+
 
     //IMPORTANT: MAKE THESE ALL LOWER CASE
-    static Character dave = new Character("images/dave.jpg","#ff0000", <String>["dave","tg","strider"]);
-    static Character dirk = new Character("images/dirk.jpg","#f2a400", <String>["dirk","tt","strider"]);
-    static Character jane = new Character("images/jane.jpg","#00d5fd", <String>["jane","gt","crocker"]);
-    static Character roxy = new Character("images/roxy.png","#ff6ff2", <String>["roxy","tg","lalonde"]);
-    static Character jake = new Character("images/jake.png","#1f9400", <String>["jake","gt","english"]);
-    static Character myserty = new Character("images/myserty.png","#c4c4c4", <String>[]);
+    static Character myserty;
 
 
-    static List<Character> characters = <Character>[dave, dirk, jane, roxy, jake];
+    static void init() {
+        //just initing these adds them to list
+         Character dave = new Character("images/dave.jpg","#ff0000", <String>["dave","tg","strider"]);
+         Character dirk = new Character("images/dirk.jpg","#f2a400", <String>["dirk","tt","strider"]);
+         Character jane = new Character("images/jane.jpg","#00d5fd", <String>["jane","gt","crocker","nanna"]);
+         Character john = new Character("images/john.jpg","#00d5fd", <String>["john","gt","egbert","popop"]);
+         Character roxy = new Character("images/roxy.png","#ff6ff2", <String>["roxy","tg","lalonde","mom"]);
+         Character jake = new Character("images/jake.png","#1f9400", <String>["jake","gt","english","grandpa"]);
+         Character jude = new Character("images/jude.png","#c4c4c4", <String>["jude","fedorafreak"]); //game theory
+         Character dad = new Character("images/dad.png","#c4c4c4", <String>["dad","pipefan413"]);
+         Character equius = new Character("images/equius.png","#c4c4c4", <String>["ct","equius"]);
+         new Character("images/erisol.jpg","#4ac925", <String>["erisol","erisolsprite"]);
+         new Character("images/fefeta.jpg","#b536da", <String>["fefeta","fefetasprite"]);
+         new Character("images/arquius.jpg","#ff0000", <String>["arquius","arquiusprite"]);
+
+
+         myserty = new Character("images/myserty.png","#c4c4c4", <String>[]);
+    }
+
 
 
     static void readTranscript(String fileLocation, Element outputDiv) {
@@ -29,7 +49,7 @@ abstract class TranscriptParser {
         roxy.say("*wonk*", output);
         */
         output = outputDiv;
-        print("Trying to parse: $fileLocation");
+        print("Trying to parse: $fileLocation, characters are $_characters");
         HttpRequest.getString(PathUtils.adjusted(fileLocation)).then(parseTranscript);
 
 
@@ -59,7 +79,7 @@ abstract class TranscriptParser {
 
     static Character findCharacter(String text) {
         print("Looking for character $text");
-        for(Character c in characters) {
+        for(Character c in _characters) {
             print("is ${c.tags} $text? ");
             if(c.tags.contains(text.toLowerCase())) return c;
         }
