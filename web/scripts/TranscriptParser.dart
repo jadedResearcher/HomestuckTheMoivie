@@ -37,9 +37,9 @@ abstract class TranscriptParser {
          new Character("images/aradia.jpg","#a10000", <String>["aradia","aa"]);
          new Character("images/tavros.jpg","#a15000", <String>["tavros","at"]);
          new Character("images/sollux.jpg","#a1a100", <String>["sollux","ta"]);
-         new Character("images/karkat.jpg","#416600", <String>["karkat","cg"]);
+         new Character("images/karkat.jpg","#416600", <String>["karkat","cg",'fcg','pcg']);
          new Character("images/nepeta.jpg","#626262", <String>["nepeta","ac"]);
-         new Character("images/kanaya.jpg","#008141", <String>["kanaya","ga"]);
+         new Character("images/kanaya.jpg","#008141", <String>["kanaya","ga",'pga','fga']);
          new Character("images/terezi.jpg","#008282", <String>["terezi","gc"]);
          new Character("images/vriska.jpg","#005682", <String>["vriska","ag"]);
          new Character("images/equius.jpg","#000056", <String>["equius","ct"]);
