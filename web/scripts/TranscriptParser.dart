@@ -30,7 +30,6 @@ abstract class TranscriptParser {
 
          Character jude = new Character("images/jude.png","#4b4b4b", <String>["jude","fedorafreak"]); //game theory
          Character dad = new Character("images/dad.png","#c4c4c4", <String>["dad","pipefan413"]);
-         Character equius = new Character("images/equius.png","#c4c4c4", <String>["ct","equius"]);
          new Character("images/erisol.jpg","#4ac925", <String>["erisol","erisolsprite"]);
          new Character("images/fefeta.jpg","#b536da", <String>["fefeta","fefetasprite"]);
          new Character("images/arquius.jpg","#ff0000", <String>["arquius","arquiusprite"]);
@@ -46,7 +45,7 @@ abstract class TranscriptParser {
          new Character("images/equius.jpg","#000056", <String>["equius","ct"]);
          new Character("images/gamzee.jpg","#2b0057", <String>["gamzee","tc"]);
          new Character("images/eridan.jpg","#6a006a", <String>["eridan","ca"]);
-         new Character("images/feferi.jpg","#77003c", <String>["feferi","cc"]);
+         new Character("images/feferi.png","#77003c", <String>["feferi","cc"]);
 
 
          myserty = new Character("images/myserty.png","#c4c4c4", <String>[]);
