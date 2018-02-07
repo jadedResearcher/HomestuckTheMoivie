@@ -22,10 +22,10 @@ abstract class TranscriptParser {
          Character dave = new Character("images/dave.jpg","#ff0000", <String>["dave","tg","strider"]);
          Character dirk = new Character("images/dirk.jpg","#f2a400", <String>["dirk","tt","strider"]);
          Character jane = new Character("images/jane.jpg","#00d5fd", <String>["jane","gt","crocker","nanna"]);
-         Character john = new Character("images/john.jpg","#00d5fd", <String>["john","gt","egbert","popop"]);
+         Character john = new Character("images/john.png","#0715CD", <String>["john","gt","egbert","popop","eb"]);
          Character roxy = new Character("images/roxy.png","#ff6ff2", <String>["roxy","tg","lalonde","mom"]);
          Character jake = new Character("images/jake.png","#1f9400", <String>["jake","gt","english","grandpa"]);
-         Character jude = new Character("images/jude.png","#c4c4c4", <String>["jude","fedorafreak"]); //game theory
+         Character jude = new Character("images/jude.png","#4b4b4b", <String>["jude","fedorafreak"]); //game theory
          Character dad = new Character("images/dad.png","#c4c4c4", <String>["dad","pipefan413"]);
          Character equius = new Character("images/equius.png","#c4c4c4", <String>["ct","equius"]);
          new Character("images/erisol.jpg","#4ac925", <String>["erisol","erisolsprite"]);

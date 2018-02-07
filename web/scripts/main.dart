@@ -6,7 +6,7 @@ void main() {
   output = querySelector('#output');
   //TODO have it read a random transcript
   int maxNumber = 1;
-  int number = 1;
+  int number = 2;
   //http://readmspa.org/transcripts/
   TranscriptParser.init(); //static vars don't exist till they do
   TranscriptParser.readTranscript("transcripts/$number.txt",output);

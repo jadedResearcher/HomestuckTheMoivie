@@ -1,35 +1,293 @@
-* Transcript: "Serious Business, fedorafreak reports"
-* Permalink: http://readmspa.org/transcripts/6_002167.txt
+* Transcript: "John explores LOWAS with help from Nannasprite (transcript and walkthrough)"
+* Permalink: http://readmspa.org/transcripts/6_003258.txt
+* Pretty HTML version: http://readmspa.org/transcripts/6_003258
 
 
-SERIOUS BUSINESS
+* Derived in part from a transcript by ShadowOfFate [http://pastebin.com/VDqtyRvz]
 
-The following matters have been submitted in a frank and forthright manner for pipefan413's judicious appraisal.
+GATE 1
 
-fedorafreak - ??:??
-ty all. report: most hats removed from danger. ties next.
+Land of Wind and Shade
 
-wellPressedAttire - ??:??
-fedorafreak, you are in our thoughts, along with pipefan413 and his enviable collection of pipes.
+* click controller icon in top-left
+Use ARROW KEYS (or WASD KEYS) to walk. SPACEBAR to attack. Hold SHIFT while attacking for dual-wielding.
 
-officeurchin1280 - ??:??
-gl fedorafreak. salvage as many hats as is practical.
+HOLD SPACEBAR to charge mangrit.
+Press Z to expend boypluck.
+Press X to open sylladex, ARROW KEYS to navigate, SPACEBAR to select.
 
-fedorafreak - ??:??
-neighboring house struck by flaming projectile. in light of fire hazard, evacuating house of all expensive garements.
+Drawin' and writin' and stuff by Andrew. (DUH)
 
-grayslacks66 - ??:??
-@pipefan413: status of health/wardrobe?
+Programming by Alexis Beingessner. (damn he is good)
 
-wellPressedAttire - ??:??
-Submitting inquiry of concern over cataclysmic event. pipefan413 reply.
+Additional art assets by Cindy. (hooray!)
 
-[SYSTEM]
+Music: \Doctor\ written by George Buzinkai, remixed by Michael Vallejo and Clark Powell. (round of applause)
+
+* click arrow in bottom-left
+Restart? Y/N
+
+YES
+NO
+
+* click Sburb logo in top-right to converse with Nanna
+
+* (in the walkaround these Nanna conversations are actually presented as sequences of dialog boxes containing quoted text, but I'll use the usual pesterlog format in this transcript):
+NANNA: John, hello! Can you hear me?
+JOHN: yeah, nanna. where are you?
+NANNA: I am still in the house, dear! I'm afraid I cannot accompany you on your journey. But I can talk to you like this, if you ever need me to provide a puzzling half-answer to one of your questions!
+JOHN: oh, ok. thanks, nanna.
+NANNA: You should begin exploring and talking to locals! They will be able to provide you with some new insight into your quest, and may illuminate some matters on which I have remained coy to this point! HOO HOO!
+JOHN: yeah, what's up with that, nanna? did the game make you all coy and prankstery when you became a sprite or were you always like that when you were alive?
+NANNA: Oh, wouldn't YOU like to know, dear! HOO HOO HOO HOO HOO!
+JOHN: ha ha ha... ok.
+
+* click John
+> I am told your name is John. Is that correct?
+
+Yep. That's right.
+
+> It's nice to meet you, John.
+
+John isn't directly cognizant of your greeting, but I'm sure he would feel likewise.
+
+> Ok, John. Let's explore this place!
+
+Ok, have at it! If you're at a loss, click the controller button up there.
+
+* Press CTRL+T to fail to access Trickster mode (John raises his arms and looks confused.)
+
+* The land isn't very large or hard to find everything in, but is awkward to describe.
+
+* So rather than a step-by-step walkthrough, I'll describe everything in it.
+
+* There are a bunch of objects. Some you are carrying; some are on the ground; some are within the mailbox cylinders known as Pyxis.
+
+* And almost none are in any way important! Here's a list:
+an INEXISTANT ITEM
+a BARBASOL BOMB
+a BARBER'S BEST FRIEND
+a BOX OF GUSHERS
+a BRANCH
+a BRANCH
+some CANDY CORN
+a CHISEL
+a CHUNK OF AMBER
+a COG
+a CRAPPY TEMP ITEM
+THE CRAPPY TEMP ITEM'S MENTALLY HANDICAPPED BROTHER
+a CRUXITE DOWEL
+an ELEGANT PIPE
+an EXQUISITE PIPE
+a FEDORA
+ILLEGAL CONTRABAND
+a JAR OF BUGS
+a MINITABLET
+a MINITABLET
+a MUSHROOM
+a MUSHROOM
+a PDA
+PDA GOGGLES
+a ROCK
+a ROCK
+a SHOE
+a SHOE
+a TELESCOPE
+an UNABRIDGED SASSACRE TEXT
+an UNCARVED MINITABLET
+a WISE GUY BOOK
+
+* When you find a Pyxis with its flag up, it contains an item, and gives you one of these messages at random:
+> Hooray! This one contains a prize! Another success for the postal system.
+> How exciting! A parcel for you. Retrieve it!
+> Open it! Open it!!!
+> This is great! Something is in there. Take a look.
+* A Pyxis with its flag down invites you to drop an item with one of these messages at random:
+> There is nothing inside. Should we put something in?
+> This one's empty. Perhaps a delivery is in order?
+
+Put something in? [Y/N]
+
+YES
+NO
+* If you find one with a carving, you can honor its request (later in the story you'll find out who you helped) but nothing bad happens if you don't.
+
+* There are twenty salamander consorts. When you first click on them, you are invited to speak through one of these random messages:
+> Approach amicably.
+> Approach the indigenous kindly.
+> Converse.
+> Greet creature.
+> Hear what this fellow has to say.
+> Introduce yourself to local amphibious fauna.
+> Speak.
+> Wave hello.
+
+* Some stand near things they can explain. A broken frog statue north of the start:
+"Look at this! Another Cherished Idol profaned! Such sacrilege has become commonplace with the recent glut of Underlings. It would bring a tear to my eye if I were not so clearly fit to be tied with these hyperactive mannerisms and severe attention deficit oh my god look a bug."
+* you can click it too:
+> This was sacred and precious. It is very sad to look at now.
+
+Looks like the imps made short work of it. Or judging by the damage to the stone, probably something bigger. Man these guys must really hate frogs.
+* or click Sburb logo to talk to Nanna:
+JOHN: what's up with this thing?
+NANNA: Amphibious and reptilian life forms play a special role in your quest, John.
+JOHN: what kind of role? like frogs and stuff?
+NANNA: ESPECIALLY frogs, John.
+JOHN: ?????
+
+* One salamander is on an island in the south:
+"I am freaking out here. Do you know what this is??? It is a huge log of Cruxite. More than I have ever seen. It is the most precious material in existence. Why if I had access to a means of producing an unlimited supply, I would be the richest salamander in the Land."
+
+"Just kidding. It's completely worthless. Here, you want it? It's free."
+
+* The two salamanders that stand next to Pyxis both say this:
+"This thing right here? You have never seen a Parcel Pyxis?
+Incomprehensible! Ok I'll play your pretend game for a minute. It is a receptacle connected to our network of Pipes. We use them to send stuff to different places. They are fully intertwined with our customs and social practices.
+
+If there is something we want, we chisel it on a Minitablet and drop it in. Who receives it? Hard to say! But if you encounter...
+
+...a Minitablet and you possess what is chiseled on it, it is considered only polite to drop it in the Pyxis!
+
+Similarly, if you encounter a Parcel Pyxis that has a prize in it already, you are obligated to keep the prize for yourself! Consider it to be a gift to you from the Breeze. This is just the way things work...
+
+Whenever one of us is standing near one of these, we feel compelled to give this little speech about it."
+* click the Sburb logo to talk to Nanna:
+NANNA: John, their economy of anonymous, intraglobal pipe-based bartering may seem quaint, but you'd do well to get accustomed to it! The true Heir must learn the ways of the peoples of the Land to progress through the Gates!
+JOHN: wait... so i'm the heir?
+NANNA: Didn't I tell you, John?
+JOHN: no!!!
+NANNA: HOO HOO HOO HOO HOO!
+NANNA: HOO!
+NANNA: HOO HOO.
+
+* In the west area, a sequence of six salamanders monologue some backstory:
+"The stars are moving? What do you mean? What are these things you call stars? Oh! You mean the Fireflies. They became trapped under the clouds when The Slumbering One cast a spell on them."
+
+"How did he cast a spell on them when he was asleep? Well, he wasn't ALWAYS asleep, you goofball! When he was awake he was asked by some really terrible guys to commission a whole bunch of Underlings. He then went about befouling our land with all this sludge, clogging up all our beautiful Pipes, and now it can barely breathe. He was sort of a huge dick. Once he tuckered himself out with all that I guess he decided to take a nap."
+
+"The terrible guys? They are a bunch of mean fellows who like to push people around. They are called Agents. They aren't usually a problem but they sure did put a spring in their step when the Heir showed up. Whoever that is. If I ever meet him I wouldn't mind punching him in the snout to... well, to accomplish some purpose I suppose. I don't know. What were we talking about?"
+
+"Yes, the spell! The spell I'm sure you've heard from a reliable source cannot be broken unless The Slumbering One is first woken up, and then slain. Then the Breeze will again flow through the Pipes and the Fireflies will be released and allowed to go home. But I do not envy the adventurers who will presumably take on this responsibility!"
+
+The Pipes are sacred to us for reasons you probably consider primitive and stupid. In fact, they probably are primitive and stupid, objectively speaking. But I am ok with that."
+
+"As the Consorts of this Land we are predictably persecuted by dark forces, and require a hero for our salvation. Alas there is no hero in sight. Wait a minute it is you. You are the hero aren't you. Of course you are. I was so foolish to speculate otherwise through dubiously solicited monologue! DUHHHHHH!"
+
+* The seventh is more industrious:
+"Farmin' these goddamn mushrooms. Fuckin' pain in the ass."
+
+* These scattered Salamanders have other backstory:
+"GLUB GLUB! Sure is windy here! Often, wind skims the voids of the Pipes, as if grazing the hollow of a cut reed, or say, a plundered Parcel Pyxis. It is a lovely sound and brings back fond memories of my childhood. Which was a couple days ago."
+
+"Not long ago all these Underlings started creeping out of the pipework, and they have been a nuisance to say the least. But just a few moments ago they began spilling from the Land in greater supply, wearing more flamboyantly preposterous outfits than ever. Why you ask? On account of a series of mysterious and arcane wytchkraft-majyspelles. Ha ha just kidding. I have no idea."
+
+* Some Salamanders are less useful:
+"GLUB!!! That's my way of saying go over there and check it out. 'GLUB' can basically mean anything I want it to mean. It's really cool having a bullshit language."
+* Some even less so:
+"GLUB GLUB GLUB GLUB."
+
+"GLUB GLUB GLUB GLUB GLUB GLUB GLUB GLUB GLUB GLUB."
+
+"Oh hey."
+
+* Two salamanders will fail to bargain with you:
+"Hey, nice suit, champ. I will buy it from you for 1 Boondollar."
+
+Sell suit for 1 Boondollar? Y/N
+
+NO
+
+"I should have known only a shrewd business man would wear such a garment. I have been chagrinned in ways I never imagined possible."
+
+* And:
+"Wanna buy this? It fell from Skaia. I guarantee it."
+
+Buy harlequin figurine? Y/N
+
+YES
+
+"Ok that will be 5,000,000 Boondollars. Oh what you don't have that much? Ha ha ha of course not no one does! It's impossible."
+
+NO
+
+"Fine I'll just be over here sitting pretty with this choice clown thing or whatever it is. And you will be there wallowing in pitiable destitution."
+
+* Two salamanders wear outfits:
+"I am a secret wizard. Behold my robes."
+
+Behold Robes? Y/N
+
+YES
+NO
+
+You wonder what the hell a secret wizard is. This guy is making you a little nervous. You don't think you'll ask him for your bedsheet back.
+* And:
+"I have renamed myself Crumplehat. I have dishonored my ancestors beyond comprehension with this frivolous accessory."
+
+* Lastly there are a few other incidental landscape features.
+
+* just north-east of where you start, click floating sassacrusher hammer and gauntlets
+> What in blue blazes is this absurd looking thing?
+
+You have deactivated your GHOST GAUNTLETS for the time being. It gets pretty distracting flailing them around all the time when all you're trying to do is explore.
+
+* In the far north-east, there's a view of your house
+> A good place to keep lookout?
+
+Maybe you should try using your TELESCOPE here.
+* choose the telescope from your sylladex
+YO MAN THIS SURE IS A DOPE VIEW.
+* click Sburb logo to talk to Nanna:
+JOHN: nanna, are you there?
+NANNA: Yes!
+JOHN: i just saw my house from below. what gives? why did the gate take me down here?
+NANNA: All the gates do, John. To ascend, each time you must first descend!
+JOHN: huh. alright. so i guess i scramble around down here until... uh, until what?
+NANNA: Until you find the next gate. It is hidden somewhere in the Land.
+JOHN: ok, so i get to that gate and go in. then what? where does it take me? uh... further up maybe? but i haven't even built that high yet.
+NANNA: So you see why you had to build in the first place, John? You must have a little faith in your dear old nanna!
+JOHN: yeah, well, i do nanna but i'm still not really getting it. does the next gate down here take me back up to the house or something?
+JOHN: please don't say hoo hoo hoo
+NANNA: HOO. HOO HOO.
+* A salamander also appears
+"That weird white boxy thing appeared up there a little while ago. Then it gradually became even boxier, and also taller. They say that's where the Heir lives. Who's they? Wise folk I guess. Maybe elders or something like that. Man I don't know. Also, isn't it funny how I'm sort of taking your existence here in stride? I'm treating it like it's no big deal."
+
+* In the far east, there's the opening to a big pipe
+> Peer into large opening?
+
+You think you can make out a very faint noise below. Is it... snoring?
+* click the Sburb logo to talk to Nanna:
+JOHN: nanna, there are more imps than ever down here, and they seem to be getting stronger.
+NANNA: Yes, dear. There are plenty of imps up here too. I had to start giving them some cookies because I baked too many. I hope you don't mind!
+JOHN: no that's ok. also they look different.
+NANNA: That is because a new prototyping has taken place.
+JOHN: huh?
+NANNA: Your pretty young friend has joined you in the Medium!
+JOHN: whoa, wait, rose is here? where is she? will i find her down here somewhere???
+NANNA: oh, settle down, all of you. there are more than enough cookies to go around.
+JOHN: nanna! dammit, will you stop messing around with those stupid imps for a second!
+JOHN: nanna? sigh...
+
+* Toward the south-east, steps exit the walkaround:
+NANNA: John, this will lead you to new frontiers in this Land. Are you sure you are done with this place and ready to move on? There may have been some things you missed!
+
+Exit? Y/N
+
+YES
+NO
+
+* I don't know how you get the game to insult you in the following ways?
+> Die. Now. Please.
+> My dick. Suck it.
+> Okay, I'll get right on that Professor Stoopid.
+> So like, you ate a lot of lead as a child?
+> That doesn't even start to make sense.
+> 'You shouldn't drink while you're pregnant.' Tell your mother this.
 
 
 * Sources:
-* http://www.mspaintadventures.com/?s=6&p=002167 - ==>==>
-* http://www.mspaintadventures.com/storyfiles/hs2/00267.gif
+* http://www.mspaintadventures.com/?s=6&p=003258 - [S] ACT 4 ==>
+* http://www.mspaintadventures.com/storyfiles/hs2/01358/01358.swf
 
 * Generated by scripts and humans - corrections welcome!
 * http://readmspa.org/transcripts
