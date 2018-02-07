@@ -35,18 +35,18 @@ abstract class TranscriptParser {
          new Character("images/fefeta.jpg","#b536da", <String>["fefeta","fefetasprite"]);
          new Character("images/arquius.jpg","#ff0000", <String>["arquius","arquiusprite"]);
 
-         new Character("images/aradia.jpg","#ff0000", <String>["aradia","aa"]);
-         new Character("images/tavros.jpg","#ff0000", <String>["tavros","at"]);
-         new Character("images/sollux.jpg","#ff0000", <String>["sollux","ta"]);
-         new Character("images/karkat.jpg","#ff0000", <String>["karkat","cg"]);
-         new Character("images/nepeta.jpg","#ff0000", <String>["nepeta","ac"]);
-         new Character("images/kanaya.jpg","#ff0000", <String>["kanaya","ga"]);
-         new Character("images/terezi.jpg","#ff0000", <String>["terezi","gc"]);
-         new Character("images/vriska.jpg","#ff0000", <String>["vriska","ag"]);
-         new Character("images/equius.jpg","#ff0000", <String>["equius","ct"]);
-         new Character("images/gamzee.jpg","#ff0000", <String>["gamzee","tc"]);
-         new Character("images/eridan.jpg","#ff0000", <String>["eridan","ca"]);
-         new Character("images/feferi.jpg","#ff0000", <String>["feferi","cc"]);
+         new Character("images/aradia.jpg","#a10000", <String>["aradia","aa"]);
+         new Character("images/tavros.jpg","#a15000", <String>["tavros","at"]);
+         new Character("images/sollux.jpg","#a1a100", <String>["sollux","ta"]);
+         new Character("images/karkat.jpg","#416600", <String>["karkat","cg"]);
+         new Character("images/nepeta.jpg","#626262", <String>["nepeta","ac"]);
+         new Character("images/kanaya.jpg","#008141", <String>["kanaya","ga"]);
+         new Character("images/terezi.jpg","#008282", <String>["terezi","gc"]);
+         new Character("images/vriska.jpg","#005682", <String>["vriska","ag"]);
+         new Character("images/equius.jpg","#000056", <String>["equius","ct"]);
+         new Character("images/gamzee.jpg","#2b0057", <String>["gamzee","tc"]);
+         new Character("images/eridan.jpg","#6a006a", <String>["eridan","ca"]);
+         new Character("images/feferi.jpg","#77003c", <String>["feferi","cc"]);
 
 
          myserty = new Character("images/myserty.png","#c4c4c4", <String>[]);

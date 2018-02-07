@@ -1,0 +1,1283 @@
+* Transcript: "Alterniabound (transcript and walkthrough)"
+* Permalink: http://readmspa.org/transcripts/6_004692.txt
+* Pretty HTML version: http://readmspa.org/transcripts/6_004692
+
+
+* Derived in part from transcripts by ShadowOfFate [http://pastebin.com/b68CEeZ7] and by Greyscale [http://pastebin.com/PqmBB6Hh]
+
+* click controls icon in top-right
+Use ARROW KEYS (or WASD KEYS) to walk and SPACEBAR to interact.
+
+* walk north to empty terminal (and press SPACE.)
+> Finish responding to Kanaya in memo.
+CURRENT carcinoGeneticist [CCG] RIGHT NOW responded to memo.
+
+CCG: OK.
+CCG: EVERYTHING'S FINE I GUESS.
+PGA: What Happened
+CCG: I PASSED OUT FOR ABOUT AN HOUR.
+CCG: FUCKING EMBARRASSING.
+CCG: YOU ARE OUT OF YOUR GODDAMN MIND, YOU KNOW.
+PGA: Shithive Maggots You Mean
+CCG: YEAH
+CCG: IN A GOOD WAY THOUGH.
+CCG: OK I'M SHUTTING THIS MEMO DOWN FOR MY PAST SELF.
+CCG: SINCE HE'S CURRENTLY LYING UNCONSCIOUS ON THE FLOOR AN HOUR AGO.
+CCG: SEE YOU IN THE FUTURE-NOW.
+PGA: Til Then
+
+CCG banned CGA from responding to memo.
+CCG banned PCG from responding to memo.
+
+CCG closed memo.
+
+* south to Terezi (and press SPACE.)
+> Talk To Terezi
+TEREZI: WOW CH3CK OUT WHO F1N4LLY WOK3 UP!
+TEREZI: W3V3 B33N TRY1NG TO W4K3 YOU FOR 4N HOUR, BUT YOU W3R3 UNR3SPONS1V3 TO 3V3N TH3 MOST S3NS3L3SS OF C4N3DRUBB1NGS >:]
+KARKAT: MY HEAD HURTS.
+TEREZI: PROB4BLY DU3 TO TH3 4FOR3M3NT1ON3D NUB DRUBB1NGS
+KARKAT: WILL YOU SHUT UP ABOUT THE DRUBBINGS. PUT THAT CANE AWAY, DAMMIT. IT'S NOT LIKE YOU EVEN NEED IT.
+KARKAT: I HAD A HORRIBLE DREAM, OK.
+TEREZI: OH?
+KARKAT: I FINALLY WOKE UP ON PROSPIT.
+TEREZI: YOU D1D???
+TEREZI: OH GOD, 1 C4NT B3L13V3 1 M1SS3D 1T!
+KARKAT: YEAH WELL, SORRY WE CAN'T GO ON OUR ENCHANTED GOLDEN MAGIC CARPET RIDE OR WHATEVER YOU HAD IN STORE FOR US, BUT NOW IT'S TOO LATE.
+KARKAT: DREAM ME IS DEAD.
+TEREZI: 1 KNOW >:[
+TEREZI: 4LL OF US 4R3, PROSP1T W4S COMPL3T3LY D3STROY3D
+KARKAT: OH SHIT, REALLY?
+KARKAT: GUESS THAT'S NOT TOO SURPRISING. ANYWAY, I SAW THE DEMON AGAIN.
+KARKAT: I THINK I KNOW WHO IT IS.
+TEREZI: WHO 1S 1T >:?
+KARKAT: I DON'T KNOW HOW IT'S POSSIBLE...
+KARKAT: I NEED TO SEARCH FOR MORE ANSWERS BEFORE I KNOW FOR SURE.
+TEREZI: STOP B31NG MYST3R1OUS 4ND T3LL M3!
+KARKAT: NO WAY. I'M NOT JUMPING TO HASTY CONCLUSIONS. IF IT TURNS OUT I'M RIGHT, THEN I GUESS WE BOTH GET TO SAY I TOLD YOU SO.
+TEREZI: 4RGH, F1N3
+TEREZI: SO, YOU S4W H1M JUST B3FOR3 H3 D3STROY3D PROSP1T?
+KARKAT: YEAH. AND THAT WASN'T EVEN THE BAD PART OF THE DREAM.
+TEREZI: TH4T W4S 4N HOUR 4GO! WH4T H4V3 YOU B33N DR34M1NG 4BOUT S1NC3?
+KARKAT: I DON'T WANT TO TALK ABOUT IT.
+KARKAT: THE BOTTOM LINE IS, EVERYONE HERE IS FORBIDDEN FROM GOING TO SLEEP.
+TEREZI: FORB1DD3N?
+KARKAT: YES, AS YOUR LEADER, I AM ORDERING ALL PROSPIT DREAMERS TO STAY AWAKE, NO MATTER HOW TIRED YOU GET.
+TEREZI: UM, 4LR1GHT >:/
+KARKAT: DO YOU EVER EVEN GET TIRED?
+TEREZI: WH4TS TH4T SUPPOS3D TO M34N!
+KARKAT: ALL YOU DO IS RUN YOUR MOUTH ALL DAY, AND SNIFF AND LICK PEOPLE INAPPROPRIATELY WITH THAT SHIT EATING GRIN.
+KARKAT: I DON'T THINK I'VE EVER EVEN SEEN YOU YAWN.
+TEREZI: 1M G3TT1NG PR3TTY T1R3D R1GHT NOW 4S 4 M4TT3R OF F4CT
+TEREZI: T1R3D OF YOUR BULLSH1T!
+KARKAT: GOD I'M TIRED.
+> Get lowdown from Terezi.
+TEREZI: SO GU3SS WH4T
+TEREZI: W3V3 B33N 1N CONT4CT W1TH SOM3 4L13NS FROM TH3 UN1V3RS3 W3 CR34T3D
+KARKAT: OK. SO?
+TEREZI: DONT YOU TH1NK TH4TS K1ND OF N34T?
+KARKAT: NO. IT'S BORING. WHO CARES?
+TEREZI: 1 THOUGHT 4S OUR 1NTR3P1D L34D3R TH4T W4S SOM3TH1NG YOU M1GHT W4NT TO KNOW
+KARKAT: ALRIGHT, AS LEADER, I RECOMMEND WE DELIVER THEM A DELIGHTFUL GIFT BASKET VIA TRANSUNIVERAL BULGE THRUS.
+KARKAT: ARE YOU TAKING THIS DOWN???
+TEREZI: >:P
+TEREZI: 1M NOT S4Y1NG W3 N33D TO M4K3 FR13NDS W1TH TH3M OR 4NYTH1NG, BUT W3V3 B3GUN TO SUSP3CT TH3Y H4V3 SOM3TH1NG TO DO W1TH OUR S3SS1ON, P4R4DOX1C4LLY SP34K1NG
+KARKAT: IS ANYTHING EVER NOT PARADOXICALLY SPEAKING?
+TEREZI: M4YB3 W3 C4N F1GUR3 OUT 4 W4Y TO G3T OURS3LV3S OUT OF TH1S J4M?
+KARKAT: NOPE. I ALREADY TOLD YOU. WE'RE DOOMED. A MEANINGLESS RACE OF ALIENS WON'T CHANGE THAT.
+KARKAT: NOW IF YOU'LL EXCUSE ME, I'VE GOT A LOT OF IMPORTANT SHIT TO DO.
+TEREZI: YOU M34N 4 LOT OF 1MPORT4NT W4ND3R1NG 4ROUND 41ML3SSLY 4ND T4LK1NG TO P3OPL3?
+KARKAT: YES, EXACTLY.
+
+* north-east to Sollux
+> Talk to Sollux.
+SOLLUX: hey kk mo2t of the2e computer2 are 2hiit.
+SOLLUX: 2o unle22 youve got a real good rea2on ii dont thiink iim gonna bother fiixiing them.
+KARKAT: I'M FINE, THANKS FOR ASKING MAN. YOUR CONCERN IS REALLY APPRECIATED, I APPRECIATE IT.
+SOLLUX: fuck you and your priimadonna garbage, iim not goiing two break down 2obbiing becau2e you pa22 out at the 2iight of a liittle blood, why dont you man up.
+KARKAT: HEY FUCK YOU, I TURN AROUND AND SEE A CRAZY GIRL WITH A CHAINSAW AND A TSUNAMI OF BROWN. IS IT TOO MUCH TO ASK THAT WE NOT TURN OUR LITTLE HIDEOUT INTO A SLAUGHTERHOUSE?
+SOLLUX: what diid you want me two do get down on the floor and kii22 your faiinted corp2e on the lii2p two wake you up on a nonexii2tent pro2piit?
+KARKAT: LET'S NOT DO THIS, OK MAN? JUST THIS ONCE. I DON'T HAVE THE ENERGY.
+SOLLUX: yeah ok fiine.
+KARKAT: SO WHAT'S THE DEAL WITH THESE ALIENS, IS IT ANYTHING I SHOULD GIVE A SHIT ABOUT?
+SOLLUX: no not at all, theyre u2ele22 and uniintere2tiing liike iim 2ure you already gathered.
+SOLLUX: ii recommend we dont bother wiith them, though aradiia 2eem2 two thiink well all be iin each other2 2ponge2 iineviitably.
+SOLLUX: whatever, iim pretty commiitted two not haviing anythiing two do wiith them ever.
+KARKAT: GOOD, THAT'S WHAT I LIKE TO HEAR.
+SOLLUX: uh huh, 2ure kk by the look of 2ome of your future memo2 iit look2 liike youre gonna get pretty wound up by thii2 thiing 2oon.
+KARKAT: MAN, FUCK MY FUTURE MEMOS.
+SOLLUX: no way, theyre hiilariiou2, be2t thiing about haviing you a2 a leader hand2 down.
+KARKAT: FUCK THAT SENTIMENT, AND FUCK YOU, AND FUCK FUTURE ME.
+SOLLUX: ok. what about pa2t you, ii2 pa2t you cool.
+KARKAT: THE ONLY GUY MORE IRRITATING AND STUPID THAN FUTURE ME IS PAST ME.
+SOLLUX: ehehehehehehe.
+
+* east to Aradia
+> Talk to Aradia.
+ARADIA: have y0u decided t0 tr0ll them yet
+KARKAT: TROLL WHO?
+ARADIA: never mind
+ARADIA: lets pretend i didnt say that and lets als0 pretend it isnt inevitable
+KARKAT: WHAT THE FROND BUCKLING NOOK STENCH ARE YOU TALKING ABOUT.
+ARADIA: n0thing. its n0t like a decisi0n y0u are ab0ut t0 make will invariably lead t0 every pr0blem we have and will ever face as well as the great und0ing itself
+ARADIA: just keep listening t0 y0ur angry impulses it will all be fine
+ARADIA: actually i guess i c0uld kill y0u right n0w and st0p it all fr0m happening thus d00ming us all in an 0ffsh00t timeline
+ARADIA: i might c0nsider it if we all werent d00med anyway
+ARADIA: and if y0u werent my friend
+KARKAT: YOU KNOW WHAT WAS GREAT? WHEN YOU USED TO NOT BE A ROBOT.
+KARKAT: CAUSE THIS ROBOT THING? THIS IS BULLSHIT.
+KARKAT: IF WE WEREN'T ALL ABOUT TO DIE, I'D DEDICATE OUR WHOLE TEAM TO FINDING A WAY TO BRING YOU BACK TO LIFE
+KARKAT: BUT WE ARE SO GUESS WE'LL HAVE TO RIDE OUT THE NEXT FEW HOURS WITH A SPOOKY TIN CAN PSYCHOPATH, SOUNDS LIKE A BLAST.
+ARADIA: 0_0
+> Be Future Aradia
+
+You cannot be Future Aradia because in the future, Future Aradia has exploded!
+
+* south to Feferi
+> Talk to Feferi.
+FEFERI: Finally! So Karkat, w)(at was your dream like after you died? I )(ave been glubbing like crazy over )(ere wondering about it.
+KARKAT: I'M NOT TALKING ABOUT IT. JUST DON'T GO TO SLEEP.
+KARKAT: OH WAIT, YOU'RE A DERSE DREAMER, RIGHT? NEVER MIND, KNOCK YOURSELF OUT. LITERALLY.
+FEFERI: You look so nervous and pale. Were you scared of w)(at you saw?
+KARKAT: WHAT ABOUT NOT TALKING ABOUT IT DON'T YOU GET.
+FEFERI: T)(ere's no reason to be scared! T)(ey are not as terrible as t)(ey look.
+FEFERI: W)(en Derse is destroyed, I am going to go to sleep and prove it.
+FEFERI: I will prove it to you, and to t)(em as well.
+KARKAT: THEM?
+FEFERI: Our new friends! You'll see. -Everyt)(ing is going to be ok.
+FEFERI: T)(IS IS PR-ETTY -EXCITING! Don't you t)(ink???
+KARKAT: M-E)(
+FEFERI: GLUB TO T)(AT ATTITUD-E!!!!!! >38O
+> Be Future Feferi
+
+You cannot be Future Feferi because in the future, Future Feferi is asleep!
+
+* west to red wheeled thing on floor
+> Examine UNIREAL AIR.
+
+It's almost impossible to cross the room without tripping over this goddamn thing. The mess in here is unireal. I mean unreal.
+
+* south west to the transporter pad
+> Transportalize
+
+* You are now at a little crossroads
+
+* one chest to your west
+> Open Chest.
+
+You got SOME BOONDOLLARS!
+
+Who cares.
+* and one to your east
+> Open Chest.
+
+You got the trusty CLAWSICLE!
+
+* go north to transporter pad
+> Transportalize
+
+* You are now at a zodiac circle of transporter pads
+
+* go to the Karkat / Cancer / ♋  transporter pad
+> Transportalize
+
+* You are now at the west end of a long corridor with many chests in it.
+
+* east, opening chests as you go...
+> Open Chest
+
+You got A WHOLE BOONBUCK!
+
+Yawn.
+
+> Open Chest
+
+You got a ~ATH MANUAL!
+
+It's so thick, you could kill someone with this thing. And if you master what's inside, you just might kill everyone with it.
+
+> Open Chest
+
+You got a TINKERBULL PLUSH!
+
+R.I.P. little buddy. :'(
+
+> Open Chest
+
+You got A WHOLE MESS OF BOONBUCKS!
+
+You guess you could use them as paperweights. Or something.
+
+* down steps, east, more chests...
+> Open Chest
+
+You got a TEAPOT!
+
+> Open Chest
+
+You got a WICKED ELIXIR!
+
+You chug the beverage immediately. Your vitals remain unchanged.
+
+* down steps, east, more chests...
+> Open Chest
+
+You got a BEAUTIFUL WORK OF FINE ART!
+
+Just... why. Why would this exist. Why would someone put it in a chest???
+
+> Open Chest
+
+You got HOMES SMELL YA LATER!
+
+SO FRESH.
+
+* east to the pad
+> Transportalize
+
+* You are now in the ectobiology lab
+
+* in the north-west corner...
+> Open Chest
+
+You got a BOX OF FRUIT TROLLUPS!
+
+TONGUE TATTOOS ON EVERY ROLL
+
+FRUIT TROLL-UPS
+
+Fruit Flavored
+
+ORANGE CREAMSICLE COLONOSCOLYPSE
+
+10 0.5 OZ (14g) ROLLS
+
+NET WT 5ZO (141g)
+
+Troll Crocker's vile tendrils are everywhere.
+
+* anywhere along the north edge of the lab
+> Examine equipment.
+
+You don't even want to think about that day. Slime and wigglers... everywhere.
+
+* in the north-east corner
+> Open Chest
+
+You got a... oh dear god.
+
+GET THAT FILTH OUTTA HERE
+
+* in the middle of the room
+> So many horrible memories for Past Karkat...
+
+Be Past Karkat?
+
+> Yes
+
+You are now Past Karkat. You are pretty much freaking the fuck out.
+
+* back to pad in south-west corner
+> Transportalize
+
+* You are now back at the west end of the long corridor with all the chests
+
+* go into the little alcove to your north west
+> There's a switch on the wall, flip it?
+
+* You've opened up Karkat's secret room
+
+* go back west along the corridor, up one flight of steps, north along the thin light gray corridor
+
+* costumes, bees
+> Examine.
+
+Man, why's everybody gotta dump their shit in your secret room? How are they even getting in here??? This is so outrageous.
+* Horsearoni
+> Examine.
+
+NEIGH
+
+* back south, then west to the transporter pad
+> Transportalize
+
+* back to the pad in the center of the zodiac circle
+> Transportalize
+
+* go to the pad to the south of the little crossroads
+> Transportalize
+
+* You are now in another winding staircase area.
+> Open Chest.
+
+You got a BROKEN BOW AND ARROW!
+
+* southwest down the steps
+> Open Chest.
+
+You got a CHAINSAW!
+
+Still some brown stains on it. Yuck.
+
+* southeast down the stairs to another two chests
+> Open Chest.
+
+You got a FAIRY POSTER!
+
+Lovely, albeit imaginary.
+
+> Open Chest.
+
+You got a BEAUTIFUL MUSCLEBEAST NUDE!
+
+You feel culturally enriched by this masterpiece.
+
+* south down more steps, west to the chest
+> Open Chest.
+
+You got the CROSBYTOP!
+
+Say, who the heck is this douche bag, anyway?
+
+* north, then southeast down the steps
+> Open Chest.
+
+You got a BROKEN ROBOT PART!
+
+> Transportalize
+
+* You are in another lab containing some glass enshrined monstrosities
+> Examine monstrosities.
+
+Genetic abominations once so threatening now pose no challenge at all to players of your godly status. They are lucky to be asleep and behind glass. They are lucky to have your pity.
+
+* in the southeast corner
+> Open Chest.
+
+You got SOME GLASSES OF FRESH MILK!
+
+But... what is there to even get milk from around here?
+
+Oh sweet jegus...
+
+* transport pad in the northeast
+> Transportalize
+
+* You are now back in the main room.
+
+* north-west to Nepeta
+> Talk to Nepeta.
+NEPETA: :33 < oh god this is so great, they look like they are so much fun!
+KARKAT: WHO
+NEPETA: :33 < the humans!!!
+KARKAT: WHAT'S A HUMAN
+NEPETA: :33 < the alien kids! come on karcat, you need to stop taking all these silly naps and get up to sp33d
+KARKAT: WAIT, WHAT HAVE YOU BEEN DOING
+KARKAT: YOU HAVEN'T BEEN PULLING YOUR RP NONSENSE ON THEM HAVE YOU? TALK ABOUT A SHITTY FIRST ENCOUNTER.
+KARKAT: OK AS LEADER, I FORBID YOU FROM RP'ING WITH THEM.
+NEPETA: :33 < but equius already furbid me from doing that :((
+NEPETA: :33 < not that i am listening to him, but shhhhh! :33
+KARKAT: WAIT, HE DID?
+KARKAT: OK, THEN AS YOUR LEADER I ORDER YOU TO RP WITH THEM AS MUCH AS POSSIBLE. BE AS OBNOXIOUS ABOUT IT AS YOU CAN.
+NEPETA: :33 < yaaaaaaaaaaaaaaay!
+
+* south to Tavros
+> Talk to Tavros.
+TAVROS: hEYYY, yOU'RE AWAKE,
+KARKAT: HEY, YOU KNOW WHAT WOULD HAVE BEEN AN AWESOME TIME TO TAKE THE OPPORTUNITY TO SAW YOUR LOWER TORSO OFF AND REPLACE IT WITH ROBO LEGS?
+TAVROS: nO,
+KARKAT: ANY GODDAMN TIME BEFORE NOW. YOU KNOW, DURING OUR WHOLE ADVENTURE WHEN THEY MIGHT HAVE COME IN HANDY.
+KARKAT: ALSO WHEN I DIDN'T HAPPEN TO BE STANDING AROUND. THAT WOULD HAVE BEEN SO SWEET.
+TAVROS: oHH, sORRY, i MEAN i WAS KIND OF ASLEEP TOO, sO, i DIDN'T HAVE A LOT OF SAY,
+TAVROS: iN THE MATTER,
+KARKAT: DID YOU SEE HIM?
+TAVROS: wHO,
+KARKAT: THE DEMON. WHEN YOU WERE ASLEEP.
+TAVROS: nO,
+KARKAT: HE WAS RIGHT FUCKING THERE. I TOLD YOU TO LOOK, BUT I GUESS YOU WERE TOO BUSY FROLICKING IN THEx` SKY OR WHATEVER YOU DO ON THAT GAUDY YELLOW MOON.
+TAVROS: oH, mAN, yEAH SKY FROLICKING WAS PROBABLY DEFINITELY THE THING i WAS PREOCCUPIED BY,
+KARKAT: ANYWAY, THAT WAS JUST BEFORE HE BLEW THE PLACE UP.
+TAVROS: wHOA, iS THAT WHAT HAPPENED,
+KARKAT: IDIOT.
+KARKAT: JUST DON'T GO TO SLEEP. SPREAD THE WORD.
+TAVROS: i COULDN'T POSSIBLY SLEEP NOW, i'M TOO EXCITED ABOUT THESE AWESOME LEGS, lOOK AT ME GO, wHOOPS,
+
+* south to Equius
+> Talk to Equius.
+KARKAT: THIS ROBOLEG BULLSHIT WAS YOUR IDEA WASN'T IT.
+EQUIUS: D --> I only supplied the technological means, though my lobbying for a hooven quadrupedal lower torso went tragically disregarded
+KARKAT: OK I HEREBY ORDER YOU TO NEVER EVEN THINK ABOUT GIVING SOMEONE HORSELEGS AGAIN, IS THAT UNDERSTOOD.
+EQUIUS: D --> Yes, I can follow that order, sir
+EQUIUS: D --> Are there any other orders you would like to issue to me in a manner that is similarly forceful
+KARKAT: I ALSO ORDER YOU TO STOP GETTING OFF ON MY ORDERS. FOR LIKE THE FIVE HUNDREDTH FUCKING TIME.
+EQUIUS: D --> Yes, and you will continue to order me to do so. I command it
+EQUIUS: D --> ...
+EQUIUS: D --> I need a towel
+KARKAT: GO HAVE YOUR BUTLER GET YOU ONE YOU SNOOTY DOUCHE.
+EQUIUS: D --> Aurthour is dead, and so is his ghost
+EQUIUS: D --> Remember
+KARKAT: YEAH.
+KARKAT: SORRY MAN, I FORGOT. DIDN'T MEAN TO BRING UP A SORE SUBJECT.
+EQUIUS: D --> Is this where embrace jocularly, as if we are bros
+EQUIUS: D --> I will be as gentle as possible
+KARKAT: DON'T TOUCH ME.
+
+* south to yellow and red plush
+> Examine host plush.
+
+Looks like SOMEONE needs to stop playing games for girls.
+
+* west to Gamzee
+> Talk to Gamzee.
+GAMZEE: HeY CaN I HeLp a tIrEd lOoKiNg bRoThEr gEt hIs mOtHeRfUcKiN NaP On?
+GAMZEE: sLeEp iN ThE HoRn pIlE? oNlY 420 bOoNdOlLaRs
+> No
+* or
+> Hell no
+KARKAT: I JUST SLEPT ON THE FLOOR FOR AN HOUR, DOES IT LOOK I NEED A NAP???
+KARKAT: BESIDES, I JUST BANNED EVERYONE FROM SLEEPING, SO DON'T GO PULLING THIS HORN PILE INN KEEPER SHIT, GOT IT?
+KARKAT: ALSO, STOP DANCING. IT'S AWFUL.
+GAMZEE: Ok wElL If yOu gEt yOuR MiNd aLl cHaNgEd aBoUt tHaT ThEn yOu kNoW WhErE To fInD ThE PiLe, BeSt fRiEnD
+KARKAT: OH YEAH, ALSO CLEAN YOUR FUCKING GARBAGE OFF THE FLOOR. IF THIS SHIT ISN'T GONE IN A FEW HOURS I'M SERIOUSLY GOING TO FLIP OUT.
+GAMZEE: HoNk hOnK HoNk hOnK HoNk! :o)
+
+* go round the bottom of the horn pile
+> Examine pile of shitty horns.
+
+Look at this shit all over the floor. Barely been down here a couple of hours and this dude turns the lab into his own personal clown sty.
+
+* west to Eridan
+> Talk to Eridan.
+ERIDAN: wwhat a fuckin vvulgar display this is
+ERIDAN: airin out all his dirty laundry like that puttin a big fuckin pile a horns in the middle of the room
+ERIDAN: at least i got the upright basic decency to hide my shitty wand pile somewwhere in the lab you wwont find it dont evven bother lookin
+KARKAT: WHY DO YOU ASSHOLES HAVE PILES OF THINGS, JUST STOP.
+
+* east to Kanaya
+> Talk to Kanaya.
+KARKAT: HEY I JUST GOT DONE TALKING TO YOU IN THE PAST. REMEMBER YOU WERE FUCKING AROUND WITH THE VOLCANO AND I PASSED OUT FOR AN HOUR?
+KANAYA: Vaguely
+KARKAT: THAT WAS NOW. HEY GUESS WHAT, NEW ORDERS. NO MORE IMPROMPTU AMPUTATIONS, OK?
+KANAYA: Impromptutations
+KARKAT: YEAH. KEEP YOUR LIPSTICK CAPPED OK. I DON'T WANT TO TURN AROUND AND SEE RAINBOW BLOOD SPRAYING EVERY WHICH WAY JUST CAUSE YOU THINK THE PLACE IS A LITTLE DRAB.
+KANAYA: I Did My Best To Clean Up The Blood Before You Woke Up
+KARKAT: THANKS FOR THAT. ALSO ANOTHER NEW ORDER. DON'T GO TO SLEEP.
+KANAYA: Dont Worry I Dont Really Want To Find Out What Happens If I Do
+KANAYA: Any Other Orders
+KANAYA: Such As Those Which Might Pertain To These Alien Children
+KARKAT: YEAH, MY ORDERS ARE THAT THEY'RE COMPLETELY IRRELEVANT, AND WHO CARES ABOUT THEM.
+KANAYA: How Are Those Orders
+KARKAT: BECAUSE I'M YOUR LEADER THAT'S HOW.
+KANAYA: They Are Not Irrelevant
+KARKAT: HOW DO YOU KNOW THAT.
+KANAYA: Its A Bit Complicated
+KANAYA: But I Believe You Should Give Them A Closer Look Before You Decide What To Do About Them If Anything
+KANAYA: Perhaps Then An Especially Leaderly Speech Will Be In Order
+KARKAT: OK I DOUBT THAT BUT WHATEVER.
+
+* east to Vriska
+> Talk to Vriska.
+KARKAT: HEY VRISKA, WHAT ARE YOU DOING.
+KARKAT: PLEASE, FOR THE LOVE OF GOD, LET IT BE SOMETHING INCONSEQUENTIAL AND BENIGN.
+VRISKA: Karkat! Man, you were out for a long time. I have made so many plans for these humans while you were asleep. Do you know how many plans have 8een made?
+KARKAT: PROBABLY ALL OF THEM, EVEN THOUGH PLANS AREN'T REALLY AN EXHAUSTIVELY QUANTIFIABLE THING AND WE BOTH FUCKING KNOW THAT.
+VRISKA: Yes! Aaaaaaaall of them. So many irons too. Guess where the irons are!
+KARKAT: PLEASE DON'T LET THEM BE IN THE FIRE, PLEASE DON'T LET THEM BE IN THE FIRE...
+VRISKA: They are........
+VRISKA: IN
+VRISKA: THE
+VRISKA: FIIIIIIIIRE!!!!!!!! ::::)
+KARKAT: GOD FUCKING DAMMIT.
+KARKAT: LOOK WHATEVER YOU'RE DOING, STOP. OR PUT IT ON PAUSE. CAN YOU PLEASE DO THAT?
+KARKAT: I WASN'T GOING TO BOTHER WITH THE HUMANS BUT NOW YOU'RE MAKING ME NERVOUS. JUST GIVE ME THE CHANCE TO LOOK INTO THIS MATTER, AND THEN I'LL BRIEF EVERYBODY.
+KARKAT: MAYBE WITH A SPEECH OR SOMETHING. CAN YOU DO THAT?
+KARKAT: PLEEEEEEEEASE? I JUST SAID THAT WITH EIGHT E'S.
+VRISKA: Fine, I will take a 8r8k, Karkat. 8ut only 8ecause you were so polite a8out it.
+VRISKA: It will give me a chance to go get some stuff done!
+> Be Vriska
+* You are now Vriska
+> Talk to Karkat.
+KARKAT: JUST... PLEASE.
+KARKAT: GO FIND SOME REMOTE CORNER OF THIS LAB, BUILD YOURSELF A NICE WEB, AND SIT THERE PEACEFULLY AND HARMLESSLY UNTIL WE ALL DIE. OK?
+VRISKA: Die? Lame.
+VRISKA: Karkat, there is a8solutely no chance we are going to die.
+VRISKA: Not with my luck! I got all of it, remem8er?
+
+* west to Kanaya
+> Talk to Kanaya.
+VRISKA: Pst!
+KANAYA: Yes
+VRISKA: Hey, what's your deal?
+KANAYA: ...
+VRISKA: I'm talking to you!
+KANAYA: What Do You Want
+VRISKA: Nothing really! It's just you haven't said one word to me since we got here.
+VRISKA: In fact, we've hardly spoken in weeks! Not since you gave me that nice dress.
+KANAYA: Oh Sorry I Hadnt Really Noticed
+VRISKA: That was gr8, remem8er that? What happened to all that? You used to meddle and 8ug and fuss over me all the time. It was annoying, 8ut kinda fun!
+KANAYA: Do You Want Me To
+VRISKA: I don't know. It would 8e cool if we could catch up some time though.
+KANAYA: Whats There Really To Catch Up On
+VRISKA: Whatever! Stuff. Anything!
+VRISKA: You are really strange, fussyfangs. I don't get you anymore.
+KANAYA: Okay
+VRISKA: That was some pretty sweet chainsaw work earlier. Pretty 8rutal, really! Didn't think you had it in you.
+VRISKA: Hey, you weren't settling a score with him there 8y any chance?
+KANAYA: What
+VRISKA: I've got a pretty keen nose for revenge. Could it 8e that you had a thing for him and were upset when he went for me instead? Hmmmmmmmm?
+KANAYA: Did He Really Go For You
+KANAYA: Thats Not How I Remember It
+VRISKA: Yes, I think I must 8e on to something here! Anyway if that's the case, sorry a8out the 8ad 8r8k!
+KANAYA: Could You Leave Me Alone
+VRISKA: Hey, which one are you spying on there? Someone new to meddle with?
+KANAYA: I Said Leave
+VRISKA: Fiiiiiiiine, god.
+
+* west to Eridan
+> Talk to Eridan.
+VRISKA: Hey.
+ERIDAN: hey
+VRISKA: So........
+ERIDAN: wwhats up
+VRISKA: Nothing.
+VRISKA: Standing by the old horn pile I see.
+ERIDAN: yup
+VRISKA: Yeah........
+VRISKA: Ok then. Carry on I guess.
+ERIDAN: god damn vvris wwhys it still got to be so flippin awwkwward like this come on
+ERIDAN: wwe used to havve a good thing goin remember our campaigns
+ERIDAN: that shit wwas epic wwhere are you evven goin to find a rivvalry like that
+VRISKA: It was fun, Eridan. While it lasted.
+VRISKA: 8ut it ran its course! I don't know what else to tell you.
+ERIDAN: oh as if im not so ovver it please spare me your disdain mindfang
+ERIDAN: im wworkin on findin a neww rivvalry wwhichll make ours look like a kiddie game
+ERIDAN: wwhich oh by the wway IT WWAS
+VRISKA: If you say so, Dualscar! 8est of luck with that.
+VRISKA: Too 8ad the luck's all mine now! Hahahaha.
+> Be Future Eridan.
+
+You are now briefly Future Eridan, in the future.
+
+> Talk to Vriska.
+ERIDAN: fuck that fuckin wwitch bleww up my computer.
+ERIDAN: ok not literally the wwitch as in thats not literally her title or anythin
+ERIDAN: the seer i guess
+ERIDAN: fuckin lousy no good goddamn rotten seer
+VRISKA: Eridan! Do I detect Black Romance in the air????????
+VRISKA: <3< <3< <3< <3< <3< <3< <3< <3<
+ERIDAN: shut your spidertrap wwitch there are serious emotions happening ovver here
+
+* as Vriska once more, east to Gamzee
+> Talk to Gamzee.
+GAMZEE: VrIsKa hEy yOu wAnT To uH...
+VRISKA: What?
+GAMZEE: ShIt, I WaS AlL GoInG To aSk iF YoU WaNtEd tO HoP In tHe hOrN PiLe fOr a bIt oF MoThErFuCkIn sHuTeYe, BuT...
+GAMZEE: I DoN'T ThInK I WiLl cAuSe i'm pReTtY MuCh sCaReD Of yOu, SoyEaH.
+VRISKA: Aww. ::::)
+
+* east to Equius
+> Talk to Equius.
+VRISKA: I must say, I am really disgusted 8y how you've resorted to following orders from that low class slo8 with the hideous mutant 8lood.
+VRISKA: I thought you were 8etter than that! I thought WE were 8etter than that.
+EQUIUS: D --> I...
+EQUIUS: D --> You're absolutely right, it's disgraceful
+EQUIUS: D --> I think it is possibly time to admit I have some sort of problem
+EQUIUS: D --> I would very much like to honor my position on the hemospectrum and mistreat those beneath me, and yet...
+VRISKA: Whoa, alright! I was just messing with you, dude. As if I really give a shit a8out any of that!
+VRISKA: Hahahahahahahaha.
+
+* north to Tavros
+> Talk to Tavros
+VRISKA: Tavros, they look amazing. YOU look amazing.
+VRISKA: 8eing a8le to walk suits you so much 8etter. Have I ever told you how much of a loser you were when you were a cripple? It's a real shame a8out how that had to happen to you.
+TAVROS: nO, bUT THANK YOU FOR SAYING SO,
+TAVROS: i MEAN, fOR THE GOOD STUFF YOU SAID, nOT NECESSARILY THE BAD STUFF,
+VRISKA: You're welcome! Now, how do those 8ad 8oys handle on stairs?
+TAVROS: i DON'T KNOW, BUT I'VE BEEN ADVISED TO STAY AWAY FROM THEM,
+VRISKA: Worst advice you could ever receive. I demand that you spend the next several hours mastering stairs.
+TAVROS: uHHHH,
+VRISKA: Come on, what would that fakey 8ullshit fantasy asshole Rufio say a8out this?
+TAVROS: oH, mAN, hE WOULD MOST SURELY BE ALL ABOUT ME CLIMBING LOTS OF STAIRS,
+TAVROS: pER THE REASSURANCES THAT i PRETEND HE SAYS, aND ALL THE SELF ESTEEM HE INSISTS ME TO HAVE,
+VRISKA: Exactly! Now hop to it, and don't think twice a8out it, or I'll know. We don't want to have to do it the hard way now, do we?
+TAVROS: oH MY GOD,
+
+* go the transporter in the center of the room
+> Transportalize
+
+* north transporter
+> Transportalize
+
+* in the zodiac circle, go the the Vriska / Scorpio / ♏  transporter
+> Transportalize
+
+* You are now in a web-ridden area
+> Open Chest
+
+You got a MAGIC 8 BALL!
+
+* down the wide steps to your south-west...
+
+* ...all the way down to the control lab. To the east of the bottom of the steps
+> Open Chest
+
+You got TAVROS'S SEVERED LEGS!
+
+Why...
+
+Why would you keep these in a chest?
+
+* northwest to the screens
+> Examine equipment.
+
+Another dodecascreen. Seem to be a lot of these things lying around.
+
+* to the west
+> Open Chest
+
+You got the FIDUSPEAR!
+
+* big broken container to your south
+> Examine huge broken container.
+
+Looks like a terrible monster has escaped. Better be careful!
+
+Haha, yeah right. You're gonna murder this thing if it crosses you.
+
+* to your northwest
+> Open Chest
+
+You got a FAIRY POSTER!
+
+Faaaaaaaake.
+
+* west to the other screen
+> Examine equipment.
+
+A monitor with a map of some place on Alternia, displaying impact sites. It looks like it crashed and froze at some point during the reckoning.
+
+* transporter pad in northwest corner
+> Transportalize
+
+* head north
+> Who's this douche bag?
+* STRIFE!
+> Aggress
+
+You 8n't got your dice on you! SO STUPID!!!!!!!!
+
+> Steal
+GANK HIS LUCK!!!!!!!!
+
+-ALL THE LUCK
++ALL THE LUCK
+
+* the monster's hopes and dreams fall away from underneath him...
+
+* go north
+
+* north some more
+> Open Chest
+
+You got the FLOURITE OCTET!
+
+Maybe you should keep these on you in the future.
+
+* console in northeast corner
+> Open Doors
+
+* through the doors to the boon laboratory
+> Examine boondollar pile.
+
+Lousy stupid goddamn Terezi, finding all those boonbonds and instantly rendering your fortune worthless. You'll show her. That snotty rich kid too.
+
+* four chests working north from the southwest corner...
+> Open Chest
+
+You got a HEAP OF FLARP MANUALS!
+
+> Open Chest
+
+You got a pair of ROCKETBOOTS!
+
+> Open Chest
+
+You got a CUTTLEFISH!
+
+> Open Chest
+
+You got a BROKEN 8 BALL!
+
+Very bad luck! Whatever. You'll just steal some more.
+
+* console in northwest corner
+> Unlock door.
+
+You have not set the password for this room yet. You have no reason to hide anything in the super secret back room as of this moment! Perhaps you will in the future.
+
+Be Future Vriska?
+
+> Yes
+
+You are now Future Vriska.
+
+> Unlock door.
+
+* enter the shrine...
+
+* chests to the west and the east
+> Open Chest
+
+You got a BUST OF NICK CAGE!
+
+SWOOOOOOOON
+
+> Open Chest
+
+You got a WILD CONSORT!
+* there is a shrine on the wall to the north (but not to the North.)
+BANGKOK DANGEROUS
+CITY of ANGELS
+CON AIR
+WINDTALKERS
+-OFF
+yeah <3
+
+> Examine Cage shrine.
+CAGE: You tell me another and I'll rescue myself. And that is a promise. Miss...?
+Rose, Sister Rose.
+CAGE: Of course. Another plant.
+CAGE: What you say we cut the chit-chat, A-hole?
+CAGE: I'm a vampire! x 5
+CAGE: How long have I been here? You're just gonna sit out there, aren'tcha?
+CAGE: I'm a vampire! x 4
+CAGE: That's what she was there for, that was the plan. To give you a boner. Heheheh. And you got one!
+CAGE: Boner x 9
+Come on, you know your life is short, you're not proud.
+CAGE: You're like a cat. The cat in the hat.
+I'm like a prickly pear.
+CAGE: What part?
+I'm a prickly pear!
+CAGE: I'm a vampire!
+CAGE: Oh what is that, what is that, what is it?
+CAGE: I'm a vampire!
+CAGE: Oh, god, not the bees! Not the bees! Aaah!
+
+* go back out south
+> Examine former boondollar pile.
+
+You gave all your money to John. Gotta keep him competitive with Dave! John will be the best human boy there is. You will make sure of it.
+* south again...
+Be Past Vriska?
+
+> Yes.
+
+* Return to the main lab, heading back the way you came...
+
+* ...back in the main room.
+
+* northwest to Nepeta
+> Talk to Nepeta.
+NEPETA: :33 < *nepeta giggles at the spidergirls funny googly eye. she just cant s33m to get used to it!*
+VRISKA: *Marquise Mindfang shares the innocent young catgirl's giggle, as she surreptitiously reaches for an orn8 dagger concealed in her 8oot!*
+NEPETA: :33 < noooooo dont roleplay as mindfang! :((
+NEPETA: :33 < you only do terrible things when you are her
+NEPETA: :33 < why dont you pretend to be something cute for a change?
+VRISKA: How a8out my spidersona? It's adora8le!
+NEPETA: :33 < no its not! you only do terrible things as your spidersona too
+NEPETA: :33 < i changed my mind, why dont we just not do any roleplaying instead
+VRISKA: ::::(
+
+* west to Feferi
+> Talk to Feferi.
+VRISKA: So! You sure seem excited a8out the alien kids. What gives????????
+FEFERI: Glub... I wouldn't say t)(at.
+VRISKA: Oh?
+FEFERI: T)(e w)(ole t)(ing doesn't seem like it's wort)( getting worked up about, to be )(onest.
+VRISKA: ::::|
+FEFERI: Sig)(. T)(ey're just kind of dull.
+FEFERI: Life is dull and uninteresting.
+FEFERI: I don't know, maybe I'm just a little depressed.
+FEFERI: You probably wouldn't understand.
+VRISKA: Sure I would! We all have our off days. Hey, if you need someone to talk to, I'm...
+FEFERI: Pffffffffffffffffff )(-E)(-E)(-E)(-E!
+FEFERI: PSYYYYYYC)(-E )(-E-E )(-E-E )(-E-E )(-E-E )(OO )(OO )(OO! 38D
+FEFERI: )(oly crap did I get you good! )(ey, Sollux! Did you catc)( any of t)(at?
+FEFERI: A live one jumped rig)(t into my boat! A real suckerfis)(! Woo)(oo)(oo. )(ow do you like t)(at, spider)(ag! Sea dwellers represent!!!
+VRISKA: That was...
+VRISKA: Surprisingly nasty of you.
+VRISKA: I'm impressed!
+FEFERI: T)(anks. I )(ope I didn't jeopardize our friends)(ip wit)( t)(at little stunt! 38)
+VRISKA: Friendship? I don't know if...
+VRISKA: W8 a minute. Why you!!!!!!!! You almost got me AGAIN!
+VRISKA: Have I ever told you how awesome you are, Peixes?
+
+* north to Aradia
+> Talk to Aradia.
+VRISKA: Hey dead girl! How's 8eing dead treating you?
+ARADIA: c0uldnt i ask y0u the same thing
+VRISKA: Yeah, sure! If you wanted to 8e technically inaccur8. It would still 8urn though, so touche!
+ARADIA: its really weird that y0u keep antag0nizing me
+ARADIA: i c0uld snap y0ur neck with a twitch
+VRISKA: Yeah 8ut you won't!
+ARADIA: 0k
+ARADIA: what d0 y0u want
+VRISKA: You saw the demon up close, right? You fought him! Or at least your doppelgangers did.
+ARADIA: yes
+VRISKA: What was he like!
+ARADIA: ...
+ARADIA: what d0 y0u want t0 kn0w specifically
+VRISKA: Primarily I'm interested in your take on his weaknesses, tactical disadvantages, stuff like that.
+ARADIA: 0_0
+ARADIA: are y0u seri0usly intending t0 fight him
+VRISKA: Wouldn't you like to know!!!!!!!!
+ARADIA: n0t especially
+
+* west to Sollux
+> Talk to Sollux.
+VRISKA: Sollux, I never got to simultaneously thank you and reprimand you for tracing that money transfer.
+VRISKA: On the one hand, it made Terezi rich, and now she won't stop lording it over me!
+SOLLUX: ok, ii'm pretty much 100% po2iitiive 2he'2 not actually doiing that, but ok.
+VRISKA: Shh! 8ut on the other hand, you've opened up a whole world to me with this discovery. So many people to meddle with, so many plans to hatch.
+VRISKA: So really, my reaction to it is twofold. Somewhat 8ipolar if you will. Don't you think that's appropri8?
+SOLLUX: man, ju2t...
+SOLLUX: go away.
+SOLLUX: ii'm not iin the glubbiing mood.
+VRISKA: Stop saying fish things, everyone thinks it's annoying!!!!!!!!
+
+* southwest to Terezi
+> Talk to Terezi.
+VRISKA: The Scourge Sisters are 8ack in action! Yeah!!!!!!!!
+TEREZI: NO W3 4R3 NOT! W1LL YOU STOP W1TH TH4T 4LR34DY???
+VRISKA: Sure we are! You'll find out. Just give it a few hours.
+TEREZI: 1 W1LL G1V3 YOU 4 F3W DRUBB1NGS!
+VRISKA: Yes!!!!!!!! That's the spirit, Redglare.
+TEREZI: BL4R, PL34S3 DO NOT ST4RT US1NG MY OLD FL4RP1NG N4M3, 1T'S SO 3MB4RR4SS1NG
+> Be Terezi
+* give scourge sister another chance
+> Talk to Vriska.
+VRISKA: Hey, if it isn't miss money8ags! How are you enjoying your fa8ulous wealth!
+VRISKA: If it was me, I would feel ashamed to get rich that way. 8y having a secret admirer just hand it to me like that, rather than earning it. That's just me though!
+TEREZI: GOD, YOUR J34LOUSLY 1S R1D1CULOUS! NOBODY C4R3S 4BOUT STOCKP1L1NG M34N1NGL3SS TR34SUR3 OTH3R TH4N YOU. W1LL YOU GROW UP???
+VRISKA: I guess you're right. I'm just giving you a hard time!
+VRISKA: You know, like the good old days. Don't you miss our friendly rivalry sometimes?
+TEREZI: H4H4H4, FR13NDLY?????
+VRISKA: Sure! So to speak.
+VRISKA: Anyway, just so you know, you're not the only one who can play a chumpy 8oy, and manipul8 him into doing what you want.
+VRISKA: In fact, I'm not even going to use any powers! Just to prove it's no 8ig deal.
+TEREZI: WH4T TH3 H3LL 4R3 YOU T4LK1NG 4BOUT
+VRISKA: You'll see!!!!!!!! Oops, smell. Haha, 8n't it a 8ummer you never died????????
+TEREZI: NO >:P
+VRISKA: Oh well. Anyway, let's get this party started. I declare the chumpy impressiona8le human 8oy-off to 8e........
+VRISKA: OOOOOOOON! :::;)
+TEREZI: UGH, YOU 4R3 SO CR4ZY
+
+* northeast to Sollux
+> Talk to Sollux.
+SOLLUX: are you 2tiill 2pyiing on that iin2ufferable priick.
+SOLLUX: 2eriiou2ly a dude giive2 a giirl a few buck2 and 2uddenly 2he cant keep her no2e off hiim, iit ii2 2o prediictable.
+TEREZI: SHUT UP SOLLUX H3S COOL
+TEREZI: 1 DONT G3T WHY YOU DONT L1K3 H1M, H3 R3M1NDS M3 OF YOU 4 B1T
+SOLLUX: you thiink iim cool?
+TEREZI: SOM3T1M3S!
+SOLLUX: how often?
+SOLLUX: don't 2ay half the tiime.
+TEREZI: >:|
+SOLLUX: oh god ii walked riight iinto that one diidn't ii.
+
+* south to Feferi
+> Talk to Feferi.
+FEFERI: Terezi, we can't just )(ide )(ere forever! We )(ave to kill t)(e demon!
+TEREZI: 1 KNOW! BUT HOW? H3 S33MS 1NV1NC1BL3
+TEREZI: 1F 4 THOUS4ND 4R4D14BOTS COULDNT K1LL H1M, WH4T HOP3 DO W3 H4V3?
+FEFERI: T)(e )(umans! T)(ey are t)(e answer.
+TEREZI: H4H4H4H4H4, S3R1OUSLY?
+FEFERI: Y-----------ES!!! I am sure of it.
+TEREZI: UM, OK, 1F YOU S4Y SO F3F3R1!
+
+* west to Aradia
+> Talk to Aradia.
+ARADIA: 0h is that what feferi thinks
+ARADIA: thats nice
+ARADIA: havent y0u underst00d anything ab0ut h0w parad0x space w0rks
+ARADIA: 0f c0urse they are the s0luti0n
+ARADIA: but they are als0 the pr0blem
+ARADIA: every effect is als0 its 0wn cause
+ARADIA: 0ur tw0 universes exist 0n 0pp0sing sides 0f a m0bius strip which is 0f c0urse n0thing but c0ntradicti0n
+ARADIA: enj0y engineering the present c0nundrum as y0u try t0 s0lve it
+ARADIA: im c0mpletely d0ne with this
+TEREZI: GR34T T4LK1NG TO YOU 4R4D14, TH4T W4S 4 BL4ST4S USU4L
+
+* west to Nepeta
+> Talk to Nepeta.
+NEPETA: :33 < terezi!!! so tell me! who is your favorite?
+TEREZI: F4VOR1T3 WH4T?
+NEPETA: :33 < human kid!
+NEPETA: :33 < oh of course, you like akwete purrmusk with the black glasses!
+NEPETA: :33 < he is pretty cute, but mine is jade
+TEREZI: OH R34LLY?
+NEPETA: :33 < yes, i have tried to make friends with her, but so far she thinks i am just teasing her!!!!
+NEPETA: :33 < its pretty furstrating. i will purrsevere though
+
+* south to Tavros
+> Talk to Tavros.
+TEREZI: LOOK1NG PR3TTY COOL T4VROS! >:
+TAVROS: tHANKS, i FEEL GREAT, aND REALLY CONFIDENT SUDDENLY,
+TAVROS: lIKE, aS IF rUFIO GAVE ME BOTH THE HIGH FIVES HE HAS, aND THEN SORT OF ONE OF THOSE BRO MASSAGES, aS IF TO SAY,
+TAVROS: yOU'RE THE CHAMP, oR THAT KIND OF THING,, TEREZI: DONT L3T 4NYON3 3V3R T3LL YOU RUF1O'S NOT R34L
+TEREZI: 1F YOU B3L13V3 H4RD 3NOUGH 1N 1M4G1N4RY TH1NGS, TH4T M4K3S TH3M SL1GHTLY L3SS F4K3!
+TAVROS: oKAY, tHAT'S GREAT ADVICE TO KNOW,, TAVROS: nOW i'M GOING TO GET SOME MORE LEG PRACTICE IN,
+TAVROS: i FEEL LIKE i COULD TAKE ON ALL THE STAIRS IN PARADOX SPACE, aND i JUST PRETENDED AS HARD AS I COULD THAT rUFIO WINKED IN AGREEANCE,
+TAVROS: sEE YOU LATER, aFTER, i'M DEFINITELY SUCCESSFUL AT ALL THE THINGS i TRY,
+
+* Tavros wanders off. Uh, I'm sure he'll be fine.
+
+* south to Equius
+> Talk to Equius.
+EQUIUS: D --> It's mystifying
+EQUIUS: D --> In spite of my warnings, he seems absolutely committed to being attracted to cases of stairs like a goshdarned magnetron
+EQUIUS: D --> Now that I think about it, I should probably deactivate his pelvic magnetron
+
+* south to Karkat
+> Talk to Karkat.
+TEREZI: 4R3NT YOU 4T L34ST 4 L1TTL3 D1S4PPO1NT3D W3 N3V3R GOT TO H4NG OUT TOG3TH3R ON PROSP1T?
+KARKAT: I DON'T KNOW. I GUESS?
+KARKAT: IT'S NOT LIKE WE DIDN'T GET TO HANG OUT PLENTY OF OTHER PLACES.
+TEREZI: YOU DONT G3T 1T! TH3R3 W3R3 4LL TH3S3 TH1NGS 1 W4S PL4NN1NG ON SHOW1NG YOU 4ND STUFF W3 COULD H4V3 DON3 TOG3TH3R
+TEREZI: 1T W4S SUPPOS3D TO B3 SP3C14L DUMMY
+KARKAT: WHAT WAS SO SPECIAL ABOUT IT? THE FACT THAT IT WAS A MOON MADE OF GOLD?
+KARKAT: BIG DEAL. THE PLACE WAS WAY TOO BRIGHT AND GARISH.
+TEREZI: 444444RGH, YOU 4R3 SO FRUSTR4T1NG!
+TEREZI: JUST
+TEREZI: N3V3R M1ND >:[
+
+* west to Kanaya
+> Talk to Kanaya.
+TEREZI: H3Y K4N4Y4, 4R3 YOU ST1LL OGL1NG H3R?
+KANAYA: What
+KANAYA: Is That What Im Doing
+TEREZI: Y3S 1T 1S OBV1OUS
+TEREZI: WHY TH3 1NF4TU4T1ON W1TH TH4T P4RT1CUL4R HUM4N
+KANAYA: Hmm
+KANAYA: I Guess I Find Her Sort Of
+KANAYA: Intoxicating
+TEREZI: OHHHHHHHHHHH??????? >8D
+KANAYA: Intoxicatingly Underwhelming
+TEREZI: >:?
+> Be Future Kanaya.
+
+You are now briefly Future Kanaya, in the future.
+
+> Talk to Karkat.
+KANAYA: Hey Have You Ever Heard Of The Green Sun?
+KARKAT: YEAH. IT'S GOT SOMETHING TO DO WITH THEIR PLAN TO KILL NOIR.
+KANAYA: I See
+KANAYA: Anything More Specific Than That
+KARKAT: NOPE. I'VE GOT NO IDEA WHAT IT IS, WHAT IS DOES, WHAT ITS ROLE IN THE PLAN IS, OR IF IT'S GOT ANY CHANCE OF WORKING.
+KARKAT: WE SHOULD PROBABLY WORRY ABOUT OUR OWN PROBLEMS.
+
+* As Terezi once again, north to Gamzee.
+> Talk to Gamzee.
+GAMZEE: HeY CaN I InTeReSt yOu iN KiCkIn tHe wIcKeD ShIt iN ThE HoRn pIlE FoR A FeW ZeEs?
+GAMZEE: CoSt yOu oNe pInCh oF SpEcIaL StArDuSt.
+TEREZI: TH4NKS G4MZ BUT NO 1 4M NOT T1R3D
+TEREZI: 1 M4Y GO FOR 4NOTH3R UN3XP3CT3D HONK JUMP SOON THOUGH
+GAMZEE: Oh pLeAsE No dOnT Go mOtHeRfUcKiN GeTtInG My sCaRe oN LiKe tHaT, I CaNt bE HaRdLy hAnDlInG ThAt NoIsE.
+TEREZI: SORRY BUT WH3N 4 G1RL H4S TO G3T H3R HONK JUMP ON TH3R3 1S JUST NO STOPP1NG H3R
+GAMZEE: OkAy wElL MaYbE WaRn mE ThEn mAyBe.
+TEREZI: NO PROM1S3S!
+GAMZEE: :o(
+TEREZI: H3H3H3H3H3H3H3
+
+* west to Eridan
+> Talk to Eridan.
+ERIDAN: hey ter can you go givve that four horned mustard blooded land licking sack of rubbish ovver there a message for me
+ERIDAN: tell him to put his honey wwhere his mouth is and meet me outside for another duel
+TEREZI: 1 4M NOT M3D14T1NG B3TW33N YOU TWO!
+TEREZI: S3R1OUSLY, COULD YOU M4K3 YOUR 4DV4NC3S 4NY MOR3 OBV1OUS 3R1D4N?
+TEREZI: 1F YOUR3 W4X1NG 4SH3N FOR M3, F1N3, 1... GU3SS 1M FL4TT3R3D???
+TEREZI: BUT H3S TOT4LLY NOT 3V3N 1NT3R3ST3D 1N TH3 TYP3 OF
+TEREZI: UH...
+TEREZI: R1V4LRY YOU W4NT W1TH H1M, OK?
+ERIDAN: swweet stinkin murder i am truly pathetic arent i
+TEREZI: Y3S, 4BSOLUT3LY
+
+* go to the transporter pad in the center of the room
+> Transportalize
+* north
+> Transportalize
+* go to the Terezi / Libra / ♎  transporter pad
+> Transportalize
+
+* You are in a maze of passages and rooms.
+
+* around in a dead end to the east and north
+> Open Chest
+
+You got SON OF LEMONSNOUT!
+
+He smells no less sweet than the corrupt senator. And yet his lies... how they stink. The lemon never falls far from the tree!
+
+* on the other side, climb stairs to the west, north, east, east, north, west, west, north, and east, finally arriving in a little room with a transporter pad
+> Transportalize
+
+* You are in an incredibly sophisticated puzzle room containing four jarred figures
+> Examine jarred fellow.
+
+Ok, seriously, why does this puzzle have to be here?
+* push him west to the center, next jar
+> Examine pickled clone.
+
+I mean really. What's the point? Who the fuck isn't going to figure this out?
+* push him east to the center, next jar
+> Examine slumbering agent.
+
+This just literally serves no purpose. Who designed this? Why??
+* push him west to the center, next jar
+
+* push him east to the center
+> Examine brined fetal carapacian.
+
+Ok, THERE. Puzzle solved. That was SO HARD. The lab technicians had too much time on their hands.
+* north through the door that opened up
+
+* You are now in a corridor containing a series of chests and rooms to its north with transporters that take you to the rooms you circled around using all those stairs earlier
+
+* north to the console
+> Open Door.
+* north into the first room
+> Transportalize
+
+* four chests from east to west
+> Open Chest
+
+You got A BOONBUCK!
+
+How trivial it seems now compared to your fortune of boonbonds. You chuck it into the chasm below.
+
+> Open Chest
+
+You got a FAIRY POSTER!
+
+Yep, pretty much nothing that's not fake about fairies, that's for sure.
+
+> Open Chest
+
+You got a MUSIC BOX TIME MACHINE!
+
+> Open Chest
+
+You got a BEAGLE AEGIS!
+
+Wearing this, you are all but indestructible.
+
+> Transportalize
+
+* back south, east along the corridor
+> Open Chest
+
+You got A WILD CONSORT!
+
+* north into next room
+> Transportalize
+> Open Chest
+
+You got a pair of ROCKET WINGS!
+
+PSWOOOOP!
+
+> Transportalize
+
+* back south, east along the corridor
+> Open Chest
+
+You got A FLARP MANUAL!
+
+* north into next room
+> Transportalize
+
+* a room to your north
+> Open Chest
+
+You got the DEMONBANE RAGRIPPER!
+
+Deadliest chainsaw in the universe.
+
+> Open Chest
+
+You got a GORGEOUS PIECE OF FINE ART.
+
+Absolutely breathtaking.
+
+> Open Chest
+
+You got DEUCE CLUBS.
+
+Least deadly pair of juggling clubs in the universe.
+
+* a room to the south
+> Open Chest
+
+You got THE ASSASSINATED CORPSE OF LIAISON PUMPKINSNUFFLE!
+
+Some bastard got to one of your key witnesses! The plot thickens.
+
+> Open Chest
+
+You got LIKE 13 BOONDOLLARS OR SOMETHING.
+
+Whoop dee doo! You toss them into the abyss and make a wish.
+
+* and a room to the west
+> Open Chest
+
+You got a BRAINFORK!
+
+For some reason you guys like to nab each others weapons and tuck them away in your own private chests. It's kind of silly. Seriously, what do you need this thing for??
+
+> Transportalize
+
+* back south, south along the corridor, past grafitti
+H1S TYR4NNY
+
+> Open Chest
+
+You got your trusty DRAWING CHALK!
+
+* west to the transporter
+> Transportalize
+
+* You are up on the roof
+
+* go to the smellescope
+> Take a whiff?
+
+Prospit's toast!
+
+> Examine chest.
+
+There's nothing in here!
+
+Perhaps in the future you will think of something important to put in here.
+
+Be Future Terezi?
+
+> Yes.
+
+You are now Future Terezi
+
+* try the smellescope again
+> Take a whiff?
+
+The meteor has rotated. Derse is now within sniffing range.
+
+The demon just destroyed Derse a few minutes ago. Smells like grape jelly. And burning.
+
+> Open Chest.
+
+You got the DRAGONSUIT!
+
+You don your extremely stylish DRAGONSUIT.
+
+Now that stubborn Pouncellor will no longer have any excuse to withhold evidence critical to the case of the prosecution!
+
+> Transportalize
+
+* check the first chest that was open previously
+> Open Chest
+
+You got some GIFT ART FROM A COOL FRIEND!
+
+* east past the new Dave and Terezi grafitti, and Hella Tyranny
+H3H3H3
+
+* north and west back along the corridor to the console
+> Open doors.
+
+The doors are jammed from overuse. That's what you get for hording so much useless bullshit in your private chests!
+
+* south, through the jar puzzle room
+> Transportalize
+
+* down all the stairs
+> Transportalize
+
+* Nepeta is waiting for you!
+> Talk to Nepeta.
+TEREZI: *TH3 M1GHTY 4ND 4STOUND1NG DR4GONYYYD L3G1SL4C3R4TOR 3NT3RS TH3 3ST33M3D POUNC3LLORS OFF1C3 W1TH 4N URG3NT BUT FR13NDLY R3QU1S1T1ON PURS3D M4G1C4LLY 1N H3R M4J3ST1C SNOUT*
+NEPETA: :33 < *the distinguished pouncellor nods in the most dignified and legal of manners at the dashing and well dressed legislacerator*
+NEPETA: :33 < *she double checks a series of impurrtant legal clawses and rubber stamps them with wild abandon for the most judicial sort of approval pawsible*
+NEPETA: :33 < this all looks to be in order! *she said*
+NEPETA: :33 < please follow me! :33
+NEPETA: :33 < *she also said*
+
+* follow Nepeta east through the blackness, and north
+> Talk to Nepeta.
+NEPETA: :33 < here you go! f33l fr33 to borrow it as long as you like
+NEPETA: :33 < oh! also as tempting as it may s33m, please dont go to sl33p in that comfy pile of wands there!
+NEPETA: :33 < both prospit and derse dreamers have been banned from napping until further notice!
+> Open Chest.
+
+You got a DRAWING TABLET!
+
+> Examine pile of shitty wands.
+
+At least someone has the decency to keep his trash tucked away.
+
+Take nap in pile of shitty wands?
+
+> Yes.
+
+Are you sure? Might not be such a hot idea.
+* Don't choose this, because:
+> Yes.
+
+Game Over.
+* Instead:
+> No.
+
+Instead back to the zodiac circle
+
+> Transportalize
+
+Be Past Terezi?
+
+> Yes.
+
+* go to the south transporter pad once more
+> Transportalize
+
+* descend the stairs and talk to poor Tavros
+TAVROS: i WAS WARNED ABOUT THEM,
+TAVROS: aND YET, i THREW CAUTION TO THE WIND,
+TAVROS: iT TURNED OUT THAT,
+TAVROS: rUFIO WAS ALMOST AS WRONG AS,
+TAVROS: hE WAS FAKE,
+
+* finally, trickster mode! Press CTRL + T
+
+* JohnVriska swishes hair, and we're into Gamzee's secret music room where the cast of Earthbound hang out.
+> Talk.
+
+oAh MaN hOw DiD yOu EvEn GeT iN hErE iT's LiKe SoMe SoRt Of MiRaClE...
+* Here Gamzee can play you some themes you've already heard, and some other bonuses
+> Play Karkat's Theme
+> Play Terezi's Theme
+> Play Vriska's Theme
+> Play Secret ROM
+> Play Spider's Claw
+> Play Alterniabound
+> Play Megalovania
+> Play Boy Skylark
+> Play Hero's Growth
+> Play Phrenic Phever
+> Play Walk Stab Walk
+> Play Horschestra
+
+
+* Sources:
+* http://www.mspaintadventures.com/?s=6&p=004692 - [S] Past Karkat: Wake up.
+* http://www.mspaintadventures.com/storyfiles/hs2/02791/02791.swf
+
+* Generated by scripts and humans - corrections welcome!
+* http://readmspa.org/transcripts
