@@ -5,10 +5,10 @@ Element output;
 void main() {
   //querySelector('#output').text = 'Your Dart app is running.';
   output = querySelector('#output');
-  //TODO have it read a random transcript
-  int maxNumber = 5;
+  //TODO have it have the abililty to shuffle transcripts, too.
+  int maxNumber = 10;
   int number = new Random().nextInt(maxNumber)+1;
-  number = 5;
+  //number = 10;
   //http://readmspa.org/transcripts/
   TranscriptParser.init(); //static vars don't exist till they do
   output.text = ("Script: $number");
