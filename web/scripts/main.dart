@@ -8,7 +8,7 @@ void main() {
   //TODO have it have the abililty to shuffle transcripts, too.
   int maxNumber = 14;
   int number = new Random().nextInt(maxNumber)+1;
-  number = 5;
+  //number = 5;
   //http://readmspa.org/transcripts/
   TranscriptParser.init(); //static vars don't exist till they do
   output.text = ("Script: $number");
