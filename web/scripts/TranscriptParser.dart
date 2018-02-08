@@ -37,8 +37,8 @@ abstract class TranscriptParser {
          new Character("images/aradia.jpg","#a10000", <String>["aradia","aa"]);
          new Character("images/tavros.jpg","#a15000", <String>["tavros","at"]);
          new Character("images/sollux.jpg","#a1a100", <String>["sollux","ta"]);
-         new Character("images/karkat.jpg","#416600", <String>["karkat","cg",'fcg','pcg']);
-         new Character("images/nepeta.jpg","#626262", <String>["nepeta","ac"]);
+         new Character("images/karkat.jpg","#626262", <String>["karkat","cg",'fcg','pcg']);
+         new Character("images/nepeta.jpg","#416600", <String>["nepeta","ac"]);
          new Character("images/kanaya.jpg","#008141", <String>["kanaya","ga",'pga','fga']);
          new Character("images/terezi.jpg","#008282", <String>["terezi","gc"]);
          new Character("images/vriska.jpg","#005682", <String>["vriska","ag"]);
@@ -91,7 +91,8 @@ abstract class TranscriptParser {
         if(parts.length <2) return;
         Character c = findCharacter(parts[0].trim());
         print("$c is going to say ${parts[1]}");
-        if(c != null) c.say(parts[1], output);
+        parts.remove(parts[0]);
+        if(c != null) c.say( "${parts.join(':')}", output);
     }
 
     static Character findCharacter(String text) {
