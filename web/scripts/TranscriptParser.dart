@@ -50,6 +50,10 @@ abstract class TranscriptParser {
          new Character("images/caliborn.jpg","#323232", <String>["caliborn","uu"]);
          new Character("images/calliope.jpg","#929292", <String>["calliope","uu"]);
 
+         new Character("images/jr.png","#3da35a", <String>["jr"]);
+         new Character("images/ab.png","#ff0000", <String>["ab"]);
+         new Character("images/kr.png","#9630BF", <String>["kr"]);
+
          myserty = new Character("images/myserty.png","#c4c4c4", <String>[]);
     }
 
