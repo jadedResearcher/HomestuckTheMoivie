@@ -12,7 +12,7 @@ class Character {
     }
 
     void say(String words, Element div) {
-        print("$tags is going to say $words");
+        //print("$tags is going to say $words");
 
         Element line = new DivElement();
         line.style.color = textColor;
