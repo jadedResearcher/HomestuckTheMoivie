@@ -70,7 +70,7 @@ abstract class TranscriptParser {
         roxy.say("*wonk*", output);
         */
         output = outputDiv;
-        print("Trying to parse: $fileLocation, characters are $_characters");
+       // print("Trying to parse: $fileLocation, characters are $_characters");
         HttpRequest.getString(PathUtils.adjusted(fileLocation)).then(parseTranscript);
 
 
@@ -81,7 +81,7 @@ abstract class TranscriptParser {
         //then look for lines that start with a known name
         //and print them out with that name
         List<String> parts = transcript.split("\n");
-        print("Parts is ${parts.length} long.");
+        //print("Parts is ${parts.length} long.");
         for(String line in parts) {
             parseLine(line);
         }
@@ -89,20 +89,20 @@ abstract class TranscriptParser {
     }
 
     static void parseLine(String text) {
-        print("Parsing line: $text");
+        //print("Parsing line: $text");
         List<String> parts = text.split(":");
-        print(parts);
+        //print(parts);
         if(parts.length <2) return;
         Character c = findCharacter(parts[0].trim());
-        print("$c is going to say ${parts[1]}");
+        //print("$c is going to say ${parts[1]}");
         parts.remove(parts[0]);
         if(c != null) c.say( "${parts.join(':')}", output);
     }
 
     static Character findCharacter(String text) {
-        print("Looking for character $text");
+        //print("Looking for character $text");
         for(Character c in _characters) {
-            print("is ${c.tags} $text? ");
+            //print("is ${c.tags} $text? ");
             if(c.tags.contains(text.toLowerCase())) return c;
         }
         return myserty;

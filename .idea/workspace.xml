@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9b83005c-cc18-4176-b79c-070d968ec7f2" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/scripts/main.dart" afterPath="$PROJECT_DIR$/web/scripts/main.dart" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/scripts/TranscriptParser.dart" afterPath="$PROJECT_DIR$/web/scripts/TranscriptParser.dart" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,8 +18,8 @@
       <file leaf-file-name="TranscriptParser.dart" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/scripts/TranscriptParser.dart">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="915">
-              <caret line="61" column="27" lean-forward="false" selection-start-line="61" selection-start-column="27" selection-end-line="61" selection-end-column="27" />
+            <state relative-caret-position="141">
+              <caret line="104" column="14" lean-forward="false" selection-start-line="104" selection-start-column="14" selection-end-line="104" selection-end-column="14" />
               <folding>
                 <element signature="e#0#24#0" expanded="true" />
               </folding>
@@ -129,9 +128,9 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>print</find>
       <find>gufv</find>
       <find>Nepeta:</find>
+      <find>print</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -164,11 +163,11 @@
         <option value="$PROJECT_DIR$/web/transcripts/13.dart" />
         <option value="$PROJECT_DIR$/web/transcripts/14.txt" />
         <option value="$PROJECT_DIR$/web/lore.html" />
-        <option value="$PROJECT_DIR$/web/scripts/TranscriptParser.dart" />
         <option value="$PROJECT_DIR$/web/transcripts/114.txt" />
         <option value="$PROJECT_DIR$/web/transcripts/113.txt" />
         <option value="$PROJECT_DIR$/web/scripts/lore.dart" />
         <option value="$PROJECT_DIR$/web/scripts/main.dart" />
+        <option value="$PROJECT_DIR$/web/scripts/TranscriptParser.dart" />
       </list>
     </option>
   </component>
@@ -945,16 +944,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/scripts/TranscriptParser.dart">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="915">
-          <caret line="61" column="27" lean-forward="false" selection-start-line="61" selection-start-column="27" selection-end-line="61" selection-end-column="27" />
-          <folding>
-            <element signature="e#0#24#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web/scripts/lore.dart">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -968,6 +957,16 @@
         <state relative-caret-position="135">
           <caret line="15" column="568" lean-forward="false" selection-start-line="15" selection-start-column="568" selection-end-line="15" selection-end-column="568" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/scripts/TranscriptParser.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="104" column="14" lean-forward="false" selection-start-line="104" selection-start-column="14" selection-end-line="104" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#24#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
