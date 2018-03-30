@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="9b83005c-cc18-4176-b79c-070d968ec7f2" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/scripts/lore.dart" afterPath="$PROJECT_DIR$/web/scripts/lore.dart" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/scripts/main.dart" afterPath="$PROJECT_DIR$/web/scripts/main.dart" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,7 +19,7 @@
       <file leaf-file-name="TranscriptParser.dart" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/scripts/TranscriptParser.dart">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="885">
+            <state relative-caret-position="915">
               <caret line="61" column="27" lean-forward="false" selection-start-line="61" selection-start-column="27" selection-end-line="61" selection-end-column="27" />
               <folding>
                 <element signature="e#0#24#0" expanded="true" />
@@ -78,21 +78,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="farragotransfer.sh" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/farragotransfer.sh">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="pubspec.yaml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pubspec.yaml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="165">
               <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.dart" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/scripts/main.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="15" column="568" lean-forward="false" selection-start-line="15" selection-start-column="568" selection-end-line="15" selection-end-column="568" />
               <folding />
             </state>
           </provider>
@@ -163,12 +163,12 @@
         <option value="$PROJECT_DIR$/web/transcripts/12.txt" />
         <option value="$PROJECT_DIR$/web/transcripts/13.dart" />
         <option value="$PROJECT_DIR$/web/transcripts/14.txt" />
-        <option value="$PROJECT_DIR$/web/scripts/main.dart" />
         <option value="$PROJECT_DIR$/web/lore.html" />
         <option value="$PROJECT_DIR$/web/scripts/TranscriptParser.dart" />
         <option value="$PROJECT_DIR$/web/transcripts/114.txt" />
         <option value="$PROJECT_DIR$/web/transcripts/113.txt" />
         <option value="$PROJECT_DIR$/web/scripts/lore.dart" />
+        <option value="$PROJECT_DIR$/web/scripts/main.dart" />
       </list>
     </option>
   </component>
@@ -194,7 +194,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -259,8 +261,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -517,7 +517,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="107" y="22" width="1259" height="673" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -906,13 +905,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/scripts/main.dart">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="4" lean-forward="false" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web/transcripts/114.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -955,7 +947,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/web/scripts/TranscriptParser.dart">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="885">
+        <state relative-caret-position="915">
           <caret line="61" column="27" lean-forward="false" selection-start-line="61" selection-start-column="27" selection-end-line="61" selection-end-column="27" />
           <folding>
             <element signature="e#0#24#0" expanded="true" />
@@ -967,6 +959,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="16" column="562" lean-forward="false" selection-start-line="16" selection-start-column="562" selection-end-line="16" selection-end-column="562" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/scripts/main.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="15" column="568" lean-forward="false" selection-start-line="15" selection-start-column="568" selection-end-line="15" selection-end-column="568" />
           <folding />
         </state>
       </provider>
